@@ -1,0 +1,11 @@
+[
+ { "airlinecode":"RYR","airporticao":"EGMC","airporttype":"1" },
+ { "airlinecode":"RYR","airporticao":"EGSS","airporttype":"1" },
+ { "airlinecode":"RYR","airporticao":"EGGW","airporttype":"1" },
+ { "airlinecode":"RYR","airporticao":"EGCC","airporttype":"2" },
+ { "airlinecode":"RYR","airporticao":"EGKK","airporttype":"2" },
+ 
+ { "airlinecode":"EZ","airporticao":"EGSS","airporttype":"1" },
+ { "airlinecode":"EZ","airporticao":"EGKK","airporttype":"1" },
+ { "airlinecode":"EZ","airporticao":"EGLL","airporttype":"2" }
+]
