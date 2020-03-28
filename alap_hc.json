@@ -18,6 +18,10 @@
  { "airlinecode":"RYR","airporticao":"EGHH","airporttype":"1" },
  { "airlinecode":"RYR","airporticao":"EGHQ","airporttype":"2" },
  
+ { "airlinecode":"RYR","airporticao":"LFDB","airporttype":"1" },
+ { "airlinecode":"RYR","airporticao":"LFML","airporttype":"1" },
+ { "airlinecode":"RYR","airporticao":"LFBO","airporttype":"1" },
+ 
  { "airlinecode":"RYR","airporticao":"EIDW","airporttype":"1" },
  { "airlinecode":"RYR","airporticao":"EGAA","airporttype":"1" },
  { "airlinecode":"RYR","airporticao":"EGAE","airporttype":"2" },
