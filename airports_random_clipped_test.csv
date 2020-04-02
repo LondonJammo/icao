@@ -1,0 +1,546 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords
+6523,00A,heliport,Total Rf Heliport,40.0708007813,-74.9336013794,11,NA,US,US-PA,Bensalem,no,00A,,00A,,,
+323361,00AA,small_airport,Aero B Ranch Airport,38.704022,-101.473911,3435,NA,US,US-KS,Leoti,no,00AA,,00AA,,,
+6524,00AK,small_airport,Lowell Field,59.94919968,-151.695999146,450,NA,US,US-AK,Anchor Point,no,00AK,,00AK,,,
+6525,00AL,small_airport,Epps Airpark,34.8647994995,-86.7703018188,820,NA,US,US-AL,Harvest,no,00AL,,00AL,,,
+325353,AL-0002,closed,Aeroporti i Korroticës së Ulët,42.6051923,20.9096986,,EU,AL,AL-U-A,Korroticës së Ulët,no,,,,,,
+325354,AL-0003,closed,Aeroporti i Mifoit,40.6061798,19.4262538,,EU,AL,AL-U-A,Mifoit,no,,,,,,
+5,AL-LA10,closed,Gjirokastër Airport,40.087889,20.151917,666,EU,AL,AL-05,Gjirokastër,no,LASK,,,,https://en.wikipedia.org/wiki/Gjirokastër_Airport,LA10
+16193,AL00,closed,Charlie Wilkes Airport,33.7444,-87.7864,340,NA,US,US-AL,Fayette,no,,,,,,AL00
+16194,AL01,closed,Bedsole Farm Airport,31.5585,-87.533301,180,NA,US,US-AL,Claiborne,no,,,,,,AL01
+16195,AL02,closed,Rainey Field,33.150101,-87.441704,300,NA,US,US-AL,Cottondale,no,,,,,,AL02
+311258,AYBR,small_airport,Biaru Airport,-7.6693,146.7594,4900,OC,PG,PG-MPL,Biaru,no,AYBR,BRP,BRU,,,
+310531,AYBS,small_airport,Begesin Airstrip,-5.3889,145.4472,980,OC,PG,PG-MPM,Begesin,no,AYBS,,BGI,,,"BEG, Bagasin"
+310529,AYBT,small_airport,Batri Airstrip,-6.5522,143.9441,4510,OC,PG,PG-SHM,Batri,no,AYBT,,BTR,,,
+308213,AYBW,small_airport,Blackwara Airport,-2.618211,141.091971,58,OC,PG,PG-SAN,,no,AYBW,,,,,
+312437,AYBX,small_airport,Wowobo Airstrip,-7.3405,144.5477,74,OC,PG,PG-GPK,Wowobo,no,AYBX,,WWB,,,
+312444,AYBY,small_airport,Wuyabo Airstrip,-6.8378,145.8732,6400,OC,PG,PG-EHG,Wuyabo,no,AYBY,,WUO,,,
+54,AYCH,medium_airport,Chimbu Airport,-6.0242900848,144.970993042,4974,OC,PG,PG-CPK,Kundiawa,yes,AYCH,CMU,,,https://en.wikipedia.org/wiki/Chimbu_Airport,
+311114,AYDD,small_airport,Dobu Airstrip,-6.6305,144.6383,3115,OC,PG,PG-CPK,Dobu,no,AYDD,,DOBU,,,
+313962,AYDK,small_airport,Munduku Airport,-4.6204,143.4516,100,OC,PG,PG-ESW,Munduku,no,AYDK,MDM,MUN,,,
+311717,AYDL,small_airport,Kondobol Airport,-8.5336,142.5049,132,OC,PG,PG-WPD,Kondobol,no,AYDL,KPF,KDB,,,"Kondubol, Kondobal"
+311110,AYDN,small_airport,Dinangat Airport,-6.1546,146.6772,5309,OC,PG,PG-MPL,Dinangat,no,AYDN,DNU,DIN,,,Diningat
+311116,AYDO,small_airport,Doini Airport,-10.7009,150.7218,31,OC,PG,PG-MBA,Castori Islets,no,AYDO,DOI,DOI,,,
+312311,AYDP,small_airport,Tsendiap Airstrip,-5.3599,144.4462,1565,OC,PG,PG-JI,Tsendiap,no,AYDP,,TNP,,,
+311104,AYDQ,small_airport,Dimisisi Airstrip,-8.6298,142.2162,166,OC,PG,PG-WPD,Dimisisi,no,AYDQ,,DIM,,,
+308051,AYDS,small_airport,Dusin Airport,-5.184135,144.411965,6300,OC,PG,PG-MPM,Dusin,no,AYDS,,DUS,,,
+55,AYDU,medium_airport,Daru Airport,-9.0867595673,143.207992554,20,OC,PG,PG-WPD,Daru,yes,AYDU,DAU,,,https://en.wikipedia.org/wiki/Daru_Airport,
+311102,AYDW,small_airport,Dewara Airstrip,-8.3802,142.4475,25,OC,PG,PG-WPD,Dewara,no,AYDW,,DWR,,,
+312108,AYDY,small_airport,Sindeni Airstrip,-7.0077,145.7965,5710,OC,PG,PG-EHG,Sindeni,no,AYDY,,SDI,,,
+311135,AYEB,small_airport,Embessa Airport,-9.447,148.7628,131,OC,PG,PG-NPP,Embessa,no,AYEB,EMS,EMB,,,
+308012,AYED,small_airport,Edwaki Airport,-3.883986,141.792234,190,OC,PG,PG-SAN,Yellow River Mission,no,AYED,XYR,EWK,,,
+311749,AYEG,small_airport,Mengina Airstrip,-6.4836,144.986,4224,OC,PG,PG-CPK,Mengina,no,AYEG,,MEN,,,
+311756,AYEI,small_airport,Milei Airstrip,-9.0794,147.602,2160,OC,PG,PG-CPM,Milei,no,AYEI,,MIL,,,
+311747,AYEK,small_airport,Membok Airstrip,-6.4744,141.019,54,OC,PG,PG-WPD,Membok,no,AYEK,,MBK,,,Mebok
+311132,AYEL,small_airport,Eliptamin Airport,-5.0412,141.6779,4825,OC,PG,PG-SAN,Eliptamin,no,AYEL,EPT,ELP,,,
+311130,AYEM,small_airport,Eleme Airstrip,-4.8141,143.9103,233,OC,PG,PG-ESW,Eleme,no,AYEM,,ELM,,,
+311202,AYEN,small_airport,Engati Airstrip,-6.9179,146.1053,3715,OC,PG,PG-MPL,Engati,no,AYEN,EGA,EGT,,,
+311200,AYEO,small_airport,Emo River Airstrip,-9.1234,148.0415,2240,OC,PG,PG-NPP,Emo Mission,no,AYEO,EMO,EMO,,,
+311205,AYER,small_airport,Erume Airport,-8.2538,146.9747,6690,OC,PG,PG-CPM,Erume,no,AYER,ERU,EME,,,
+313974,AYES,small_airport,Meselia Airport,-6.1364,149.1183,180,OC,PG,PG-WBK,Demgulu,no,AYES,MFZ,,,,"Mesalia, Mesilia"
+311134,AYEU,small_airport,Eloaua Airstrip,-1.5601,149.6318,25,OC,PG,PG-NIK,Eloaua Island,no,AYEU,,ELO,,,
+311757,AYEY,small_airport,Mirsey Airstrip,-4.0621,142.6609,107,OC,PG,PG-ESW,Mirsey,no,AYEY,,MSY,,,
+311370,AYFE,small_airport,Feramin Airport,-5.208,141.6988,4655,OC,PG,PG-SAN,Feramin,no,AYFE,FRQ,FMN,,,Feranmin
+311374,AYFK,small_airport,Foroko Airstrip,-5.3283,144.8944,412,OC,PG,PG-MPM,Foroko,no,AYFK,,FRO,,,
+311373,AYFO,small_airport,Fogomaiu Airstrip,-6.5096,143.0794,737,OC,PG,PG-SHM,Fogomaiu,no,AYFO,,FGM,,,"Fogoma'iu, Fogomaio"
+307757,AYFR,small_airport,Frieda River Airport,-4.610468,141.960138,217,OC,PG,PG-ESW,Frieda River,no,AYFR,FAQ,FRR,,https://en.wikipedia.org/wiki/Frieda_River_Airport,
+311347,AYFS,small_airport,Fas Airstrip,-3.1983,141.472,1219,OC,PG,PG-SAN,Fugari,no,AYFS,,FAS,,,
+311384,AYFU,small_airport,Fuma Airport,-6.3933,142.4408,466,OC,PG,PG-WPD,Fuma,no,AYFU,FUM,FUMA,,,
+313571,AYFW,small_airport,Kwieftim Airstrip,-3.6005,141.7674,515,OC,PG,PG-SAN,Kwieftim,no,AYFW,,KWM,,,
+56,AYGA,medium_airport,Goroka Airport,-6.0816898346,145.391998291,5282,OC,PG,PG-EHG,Goronka,yes,AYGA,GKA,,,https://en.wikipedia.org/wiki/Goroka_Airport,
+312794,AYGD,small_airport,Gimi Airstrip,-6.6482,145.4003,5096,OC,PG,PG-EHG,Amusa,no,AYGD,,GIMI,,,
+311415,AYGE,small_airport,Geigorobi Airstrip,-4.1055,143.3056,74,OC,PG,PG-ESW,Geigorobi,no,AYGE,,GEI,,,
+311430,AYGF,small_airport,Guari Airport,-8.1286,146.8722,6450,OC,PG,PG-CPM,Guari,no,AYGF,GUG,GAI,,,
+308005,AYGG,small_airport,Garasa Airport,-7.980713,147.213461,2539,OC,PG,PG-MPL,Au,no,AYGG,GRL,GSA,,,
+311439,AYGH,small_airport,Guhu Airstrip,-5.6957,146.1116,3,OC,PG,PG-MPM,Guhu,no,AYGH,,GUHU,,,
+311417,AYGM,small_airport,Gema Airstrip,-6.8032,145.7756,1675,OC,PG,PG-EHG,Gema,no,AYGM,,GEMA,,,
+57,AYGN,medium_airport,Gurney Airport,-10.3114995956,150.333999634,88,OC,PG,PG-MBA,Gurney,yes,AYGN,GUR,,,https://en.wikipedia.org/wiki/Gurney_Airport,
+311426,AYGO,small_airport,Gokto Airstrip,-4.9136,144.49,259,OC,PG,PG-MPM,Gokto,no,AYGO,,GTO,,,
+307709,AYGP,small_airport,Gusap Airport,-6.053196,145.959047,1504,OC,PG,PG-GPK,Gusap,no,AYGP,GAP,GSP,,https://en.wikipedia.org/wiki/Gusap_Airport,
+311413,AYGQ,small_airport,Gawa Airstrip,-5.259,142.233,6500,OC,PG,PG-SAN,Gawa,no,AYGQ,,GAWA,,,
+58,AYGR,medium_airport,Girua Airport,-8.8045396805,148.309005737,311,OC,PG,PG-NPP,Popondetta,yes,AYGR,PNP,,,https://en.wikipedia.org/wiki/Girua_Airport,
+311386,AYGS,small_airport,Gasuke Airport,-6.1028,141.7393,157,OC,PG,PG-WPD,Gasuke,no,AYGS,GBC,GSK,,,
+308212,AYGW,small_airport,Guwasa Airport,-6.465838,145.083968,4800,OC,PG,PG-EHG,Guwasa,no,AYGW,,,,,
+311431,AYGY,small_airport,Guavi Airstrip,-6.87,142.7537,303,OC,PG,PG-WPD,Guavi,no,AYGY,,,,,
+307876,AYHA,small_airport,Haia Airport,-6.707421,144.997398,2434,OC,PG,PG-CPK,,no,AYHA,,HAIA,,,
+311468,AYHB,small_airport,Habi Airport,-6.32,142.4893,993,OC,PG,PG-WPD,Habi,no,AYHB,HBD,HABI,,,
+311487,AYHE,small_airport,Heiweni Airport,-7.4223,146.4276,3480,OC,PG,PG-MPL,Heiweni,no,AYHE,HNI,HWI,,,
+312918,AYHH,small_airport,Honinabi Airport,-16.2457,142.1771,452,OC,PG,PG-WPD,Honinabi,no,AYHH,HNN,HBI,,,Honinabe
+311506,AYHJ,small_airport,Hewa Airstrip,-5.1914,142.9595,5000,OC,PG,PG-EPW,Hewa,no,AYHJ,,HEWA,,,
+59,AYHK,medium_airport,Kimbe Airport,-5.4621701241,150.4049987793,66,OC,PG,PG-WBK,Hoskins,yes,AYHK,HKN,,,https://en.wikipedia.org/wiki/Hoskins_Airport,
+311492,AYHL,small_airport,Hesalibi Airstrip,-6.6,142.3502,305,OC,PG,PG-WPD,Hesalibi,no,AYHL,,HLB,,,
+311508,AYHN,small_airport,Habina Airstrip,-6.6671,146,6200,OC,PG,PG-EHG,Habina,no,AYHN,,HAA,,,
+311472,AYHO,small_airport,Haivaro Airport,-6.9406,143.059,180,OC,PG,PG-GPK,Haivaro,no,AYHO,HIT,HWO,,,Haiwaro
+311473,AYHQ,small_airport,Hauna Airstrip,-4.2994,142.2305,73,OC,PG,PG-ESW,Hauna,no,AYHQ,,HNA,,,
+311510,AYHT,small_airport,Hotmin Airstrip,-4.5845,141.5742,196,OC,PG,PG-ESW,Hotmin Mission,no,AYHT,,HOT,,,
+311470,AYHW,small_airport,Haewenai Airstrip,-5.7219,141.3205,220,OC,PG,PG-WPD,Haewenai,no,AYHW,,,,,
+311489,AYHX,small_airport,Herowena Airstrip,-6.6229,145.1972,4695,OC,PG,PG-EHG,Herowana,no,AYHX,,HRW,,,
+311519,AYHY,small_airport,Huya Airstrip,-6.2734,142.7061,2611,OC,PG,PG-SHM,Huya,no,AYHY,,HUYA,,,
+311521,AYIB,small_airport,Ibil Airstrip,-4.6828,141.0316,870,OC,PG,PG-SAN,Ibil,no,AYIB,,IBIL,,,
+312938,AYII,small_airport,Imane Airport,-6.7524,146.1072,3860,OC,PG,PG-MPL,Imane,no,AYII,IMN,IMN,,,Imani
+313419,AYIM,small_airport,Kungim Airport,-5.671,141.03,349,OC,PG,PG-WPD,Kungim,no,AYIM,KGM,KNM,,,Kungum
+311089,AYIN,small_airport,Busilmin Airstrip,-4.9166,141.1548,5450,OC,PG,PG-SAN,Busilmin,no,AYIN,,BSM,,,
+312964,AYIO,small_airport,Imonda Airport,-3.328,141.1573,990,OC,PG,PG-SAN,Imonda,no,AYIO,IMD,IMO,,,
+311530,AYIP,small_airport,Iropena Airstrip,-5.0333,143.87084,5190,OC,PG,PG-ESW,Iropena,no,AYIP,,IRP,,,
+311527,AYIR,small_airport,Inaru Airstrip,-4.6316,142.8913,178,OC,PG,PG-ESW,Inaru,no,AYIR,,INR,,,
+311533,AYIS,small_airport,Isan Airstrip,-5.9781,146.61975,6955,OC,PG,PG-MPL,Isan,no,AYIS,,ISAN,,,
+311535,AYIT,small_airport,Iteri Airstrip,-4.2418,141.5234,242,OC,PG,PG-ESW,Iteri,no,AYIT,,ITR,,,
+312934,AYIU,small_airport,Ialibu Airport,-6.2782,143.9944,6736,OC,PG,PG-SHM,Ialibu,no,AYIU,IAL,IBU,,,Lalibu
+319533,AYIX,small_airport,Witu Airport,-4.689522,149.440112,25,OC,PG,PG-WBK,Garove Island,no,AYIX,WIU,WITU,,,
+311798,AYJE,small_airport,Yomneri Airstrip,-5.237,144.6007,6100,OC,PG,PG-MPM,Yomneri,no,AYJE,,,,,
+311794,AYJO,small_airport,Yongai Airport,-8.5289,147.4603,6500,OC,PG,PG-CPM,Yongai,no,AYJO,KGH,YON,,,
+35188,AYKA,small_airport,Losuia Airport,-8.5058202744,151.0809936523,27,OC,PG,PG-MBA,Losuia,yes,AYKA,LSA,,,https://en.wikipedia.org/wiki/Losuia_Airport,Formerly Kiriwina Airport
+308795,AYKG,small_airport,Kopiago Airport,-5.3883,142.4977,4445,OC,PG,PG-HE,Kopiago,no,AYKG,KPA,KGO,,,
+35185,AYKI,small_airport,Kiunga Airport,-6.1257100105,141.2819976807,88,OC,PG,PG-WPD,Kiunga,yes,AYKI,UNG,,,https://en.wikipedia.org/wiki/Kiunga_Airport,
+308592,AYKJ,small_airport,Kanainj Airport,-5.2903,144.7072,4064,OC,PG,PG-MPM,Kanainj,no,AYKJ,KNE,KNJ,,,
+35184,AYKK,small_airport,Kikori Airport,-7.4243798256,144.2500762939,50,OC,PG,PG-GPK,Kikori,yes,AYKK,KRI,,,,
+313787,AYKL,small_airport,Kafle Airstrip,-3.75,142.59,850,OC,PG,PG-SAN,Kafle,no,AYKL,,KFL,,,
+60,AYKM,medium_airport,Kerema Airport,-7.9636101723,145.770996094,10,OC,PG,PG-GPK,Kerema,yes,AYKM,KMA,,,https://en.wikipedia.org/wiki/Kerema_Airport,
+313564,AYKN,small_airport,Kubuna Airstrip,-8.6917,146.7566,200,OC,PG,PG-CPM,Kubuna Mission,no,AYKN,,,,,
+308594,AYKR,small_airport,Kar Kar Airport,-4.557,145.9404,130,OC,PG,PG-MPM,Kar Kar Island,no,AYKR,KRX,KKR,,,
+302264,AYKT,small_airport,Aropa Airport,-6.305417,155.728139,20,OC,PG,PG-NSB,Kieta,yes,AYIQ,KIE,KIA,,https://en.wikipedia.org/wiki/Kieta_Airport,
+308319,AYKU,small_airport,Kuri Airport,-7.135083,143.276111,35,OC,PG,PG-GPK,Kuri,no,AYKU,KUQ,KURI,,,
+61,AYKV,medium_airport,Kavieng Airport,-2.5794000626,150.807998657,7,OC,PG,PG-NIK,Kavieng,yes,AYKV,KVG,,,https://en.wikipedia.org/wiki/Kavieng_Airport,
+31837,AYKY,small_airport,Londolovit Airport,-3.043610096,152.628997803,167,OC,PG,PG-NIK,Londolovit,yes,AYKY,LNV,,,https://en.wikipedia.org/wiki/Lihir_Island_Airport,"Lihir Island, Kunaye"
+313788,AYKZ,small_airport,Kairiru Airstrip,-3.3687,143.5546,60,OC,PG,PG-ESW,Kairiru Island,no,AYKZ,,KAI,,,
+308079,AYLA,closed,Lae Airfield,-6.731666,146.996368,50,OC,PG,PG-MPL,Lae,no,AYLA,,,,https://en.wikipedia.org/wiki/Lae_Airfield,"Lae Drome, Lae Aerodrome, Old Lae Airfield"
+312686,AYLB,small_airport,Lab Lab Airport,-5.7204,148.0566,160,OC,PG,PG-MPL,Lab Lab Mission,no,AYLB,LAB,LAB,,,Lablab
+314947,AYLC,small_airport,Lake Campbell Airstrip,-6.7486,142.6037,585,OC,PG,PG-WPD,Lake Campbell,no,AYLC,,,,,
+313941,AYLE,small_airport,Lele Airstrip,-5.2192,151.3938,1600,OC,PG,PG-EBR,Leli,no,AYLE,,LELE,,,Leli
+311702,AYLH,small_airport,Klauhau Airstrip,-4.1305,142.2495,130,OC,PG,PG-ESW,Klauhau,no,AYLH,,,,,
+313841,AYLO,small_airport,Lowai Airport,-6.3344,146.6458,2900,OC,PG,PG-MPL,Lowai,no,AYLO,LWI,LOW,,,
+313927,AYLP,small_airport,Leron Plains Airport,-6.3917,146.3434,680,OC,PG,PG-MPL,Leron Plains,no,AYLP,LPN,LPS,,,
+313574,AYLQ,small_airport,Lagoon Airstrip,-8.8186,143.1317,100,OC,PG,PG-WPD,Lagoon,no,AYLQ,,LGN,,,
+313944,AYLS,small_airport,Lese Airport,-8.2799,146.2765,40,OC,PG,PG-GPK,Lese,no,AYLS,LNG,LESE,,,
+313946,AYLX,small_airport,Long Island Airport,-5.3604,147.0177,116,OC,PG,PG-MPM,Long Island,no,AYLX,LSJ,LIS,,,
+312120,AYLZ,small_airport,Slai Airstrip,-4.0322,143.1831,77,OC,PG,PG-ESW,Slai,no,AYLZ,,SLAI,,,
+317271,AYM,seaplane_base,Yas Island Seaplane Base,24.467,54.6103,0,AS,AE,AE-AZ,Abu Dhabi,no,,AYM,,,,
+314134,AYMA,small_airport,Manari Airport,-9.1908,147.6219,2630,OC,PG,PG-NPP,Manari,no,AYMA,MRM,MRI,,,Manare
+312797,AYMB,small_airport,Morobe Airport,-7.74,147.59,8,OC,PG,PG-MPL,Morobe,no,AYMB,OBM,MBE,,,
+62,AYMD,medium_airport,Madang Airport,-5.2070798874,145.789001465,20,OC,PG,PG-MPM,Madang,yes,AYMD,MAG,,,https://en.wikipedia.org/wiki/Madang_Airport,
+63,AYMH,medium_airport,Mount Hagen Kagamuga Airport,-5.826789856,144.296005249,5388,OC,PG,PG-WHM,Mount Hagen,yes,AYMH,HGU,,,https://en.wikipedia.org/wiki/Mount_Hagen_Airport,
+30752,BISV,small_airport,Skálavatn Airport,64.1157989502,-18.7833003998,2000,EU,IS,IS-8,Skálavatn,no,BISV,,,,,
+32436,BITE,small_airport,Þingeyri Airport,65.870300293,-23.5599994659,65,EU,IS,IS-4,Þingeyri,no,BITE,TEY,,,,
+308409,BITF,closed,Tálknafjörður Airport,65.676037,-24.006114,115,EU,IS,IS-4,Tálknafjörður,no,BITF,,,,,
+2435,EGMC,medium_airport,Southend Airport,51.5713996887,0.695555985,49,EU,GB,GB-ENG,Southend,yes,EGMC,SEN,,http://www.southendairport.com/,https://en.wikipedia.org/wiki/London_Southend_Airport,RAF Rochford
+2436,EGMD,medium_airport,Lydd Airport,50.9561004639,0.9391670227,13,EU,GB,GB-ENG,"Lydd, Ashford",yes,EGMD,LYX,,http://www.lydd-airport.co.uk/,https://en.wikipedia.org/wiki/London_Ashford_Airport,London Ashford
+29163,EGMF,small_airport,Farthing Corner/Stoneacre Farm Airfield,51.332369,0.600126,420,EU,GB,GB-ENG,Bredhurst,no,EGMF,,,,,
+2437,EGMH,closed,Kent International Airport,51.342201,1.34611,178,EU,GB,GB-ENG,Manston,no,EGMH,MSE,,http://www.kentinternationalairport-manston.com/,https://en.wikipedia.org/wiki/Kent_International_Airport,"RAF Manston, Ramsgate, EGUM, Manston Airport"
+29164,EGMJ,small_airport,Little Gransden Airfield,52.1666984558,-0.1538890004,250,EU,GB,GB-ENG,St. Neot's,no,EGMJ,,,http://www.skyline.flyer.co.uk/,https://en.wikipedia.org/wiki/Little_Gransden_Airfield,
+313840,EGMK,closed,Lympne Airport,51.08,1.013,351,EU,GB,GB-ENG,Ashford,no,EGMK,LYM,,,https://en.wikipedia.org/wiki/Lympne_Airport,RAF Lympne
+29815,EGML,small_airport,Damyns Hall Aerodrome,51.5285987854,0.2455559969,59,EU,GB,GB-ENG,Upminster,no,EGML,,,,https://en.wikipedia.org/wiki/Damyns_Hall_Aerodrome,
+314586,EGMT,small_airport,Thurrock Airfield,51.537505,0.367634,20,EU,GB,GB-ENG,,yes,EGMT,,,http://www.aeroservices.co.uk/thurrock_airfield.html,,
+29966,EGNA,closed,Hucknall Airfield,53.0144004822,-1.2183300257,279,EU,GB,GB-ENG,Nottingham,no,EGNA,,,,https://en.wikipedia.org/wiki/Hucknall_Airfield,
+2438,EGNB,closed,Brough Airport,53.7197,-0.566333,12,EU,GB,GB-ENG,Brough,no,EGNB,,,,https://en.wikipedia.org/wiki/Brough_Aerodrome,
+2439,EGNC,medium_airport,Carlisle Airport,54.9375,-2.8091700077,190,EU,GB,GB-ENG,Carlisle,no,EGNC,CAX,,,https://en.wikipedia.org/wiki/Carlisle_Airport,
+46641,EGND,small_airport,Crosland Moor Airfield,53.621667,-1.830278,825,EU,GB,GB-ENG,Huddersfield,no,EGND,,,http://www.cmfc.me.uk/index.html,https://en.wikipedia.org/wiki/Crosland_Moor_Airfield,
+2440,EGNE,small_airport,Retford Gamston Airport,53.2806015015,-0.9513890147,91,EU,GB,GB-ENG,Gamston,no,EGNE,,,http://www.gamstonairport.co.uk/,https://en.wikipedia.org/wiki/Retford_Gamston_Airport,RAF Gamston
+29165,EGNF,small_airport,Netherthorpe Airfield,53.3168983459,-1.1963900328,250,EU,GB,GB-ENG,Worksop,no,EGNF,,,http://www.sheffieldaeroclub.net/,https://en.wikipedia.org/wiki/Netherthorpe_Airfield,
+29679,EGNG,small_airport,Bagby Thirsk Prv Airport,54.211101532,-1.2899999619,161,EU,GB,GB-ENG,Bagby,no,EGNG,,,,,
+2441,EGNH,medium_airport,Blackpool International Airport,53.7717018127,-3.0286099911,34,EU,GB,GB-ENG,Blackpool,yes,EGNH,BLK,,http://www.blackpoolinternational.com/,https://en.wikipedia.org/wiki/Blackpool_International_Airport,
+28479,EGNI,small_airport,Skegness (Ingoldmells) Aerodrome,53.1716,0.3293749988,8,EU,GB,GB-ENG,Skegness,no,EGNI,,,http://www.skegnessairfield.co.uk/,https://en.wikipedia.org/wiki/Skegness#Airfield,
+2442,EGNJ,medium_airport,Humberside Airport,53.5744018555,-0.3508329988,121,EU,GB,GB-ENG,Grimsby,yes,EGNJ,HUY,,http://www.humbersideairport.com/,https://en.wikipedia.org/wiki/Humberside_Airport,RAF Kirmington
+2443,EGNL,medium_airport,Barrow Walney Island Airport,54.1286111,-3.2675,173,EU,GB,GB-ENG,Barrow-in-Furness,no,EGNL,BWF,,http://www.walneyairfield.multiservers.com/,https://en.wikipedia.org/wiki/Barrow/Walney_Island_Airfield,
+2444,EGNM,large_airport,Leeds Bradford Airport,53.8658981323,-1.6605700254,681,EU,GB,GB-ENG,Leeds,yes,EGNM,LBA,,http://www.lbia.co.uk/,https://en.wikipedia.org/wiki/Leeds_Bradford_International_Airport,
+2445,EGNO,medium_airport,Warton Aerodrome,53.745098,-2.88306,55,EU,GB,GB-ENG,Warton,no,EGNO,WRT,,,https://en.wikipedia.org/wiki/Warton_Aerodrome,
+314587,EGNP,heliport,Leeds Heliport,53.878175,-1.662477,670,EU,GB,GB-ENG,,no,EGNP,,,,,
+2446,EGNR,medium_airport,Hawarden Airport,53.1781005859,-2.9777801037,45,EU,GB,GB-WLS,Hawarden,yes,EGNR,CEG,,,https://en.wikipedia.org/wiki/Hawarden_Airport,Chester
+2447,EGNS,medium_airport,Isle of Man Airport,54.0833015442,-4.6238899231,52,EU,IM,IM-U-A,Castletown,yes,EGNS,IOM,,http://www.iom-airport.com/,https://en.wikipedia.org/wiki/Isle_of_Man_Airport,"Ronaldsway, Douglas"
+2448,EGNT,large_airport,Newcastle Airport,55.0374984741,-1.6916699409,266,EU,GB,GB-ENG,Newcastle,yes,EGNT,NCL,,http://www.newcastleairport.com/,https://en.wikipedia.org/wiki/Newcastle_Airport,
+29166,EGNU,small_airport,Full Sutton Airfield,53.980598,-0.864722,86,EU,GB,GB-ENG,Full Sutton,no,EGNU,,,http://www.fullsuttonairfield.co.uk/,https://en.wikipedia.org/wiki/Full_Sutton_Airfield,
+2449,EGNV,medium_airport,Durham Tees Valley Airport,54.5092010498,-1.4294099808,120,EU,GB,GB-ENG,Durham,yes,EGNV,MME,,http://www.durhamteesvalleyairport.com/,https://en.wikipedia.org/wiki/Durham_Tees_Valley_Airport,Teesside
+29167,EGNW,small_airport,Wickenby Aerodrome,53.3166999817,-0.349721998,63,EU,GB,GB-ENG,Lincoln,no,EGNW,,,,https://en.wikipedia.org/wiki/Wickenby_Aerodrome,RAF Wickenby
+2450,EGNX,large_airport,East Midlands Airport,52.8311004639,-1.3280600309,306,EU,GB,GB-ENG,Nottingham,yes,EGNX,EMA,,http://www.eastmidlandsairport.com/,https://en.wikipedia.org/wiki/East_Midlands_Airport,RAF Castle Donington
+29168,EGNY,small_airport,Beverley/Linley Hill Airfield,53.8983,-0.361389,3,EU,GB,GB-ENG,Beverley,no,EGNY,,,,,
+2451,EGOD,small_airport,Llanbedr Airport,52.8116989136,-4.1235799789,30,EU,GB,GB-WLS,Llanbedr,no,EGFD,,,,https://en.wikipedia.org/wiki/Llanbedr_Airport,
+2452,EGOE,small_airport,RAF Ternhill,52.8712005615,-2.5335600376,272,EU,GB,GB-ENG,Ternhill,no,EGOE,,,,https://en.wikipedia.org/wiki/RAF_Ternhill,
+30991,EGOM,medium_airport,RAF Spadeadam,55.0499992371,-2.5499999523,1066,EU,GB,GB-ENG,Spadeadam,no,EGOM,,,http://www.raf.mod.uk/rafspadeadam/,https://en.wikipedia.org/wiki/RAF_Spadeadam,
+3073,EGOQ,small_airport,RAF Mona,53.258598,-4.37355,202,EU,GB,GB-WLS,Holyhead Island,no,EGOQ,,,,https://en.wikipedia.org/wiki/RAF_Mona,
+2453,EGOS,medium_airport,RAF Shawbury,52.7981987,-2.6680400372,249,EU,GB,GB-ENG,Shawbury,no,EGOS,,,http://www.raf.mod.uk/rafshawbury/,https://en.wikipedia.org/wiki/RAF_Shawbury,Shrewsbury
+2454,EGOV,medium_airport,Anglesey Airport,53.2481002808,-4.5353398323,37,EU,GB,GB-WLS,Angelsey,yes,EGOV,VLY,,http://www.angleseyairport.com/,https://en.wikipedia.org/wiki/Anglesey_Airport,"Maes Awyr Môn, RAF Valley"
+2455,EGOW,small_airport,RAF Woodvale,53.5816,-3.05552,37,EU,GB,GB-ENG,Southport,no,EGOW,,,,https://en.wikipedia.org/wiki/RAF_Woodvale,
+29170,EGOY,closed,RAF West Freugh,54.8511,-4.94778,55,EU,GB,GB-SCT,Wigtownshire,no,EGOY,,,,https://en.wikipedia.org/wiki/RAF_West_Freugh,
+2456,EGPA,medium_airport,Kirkwall Airport,58.9578018188,-2.9049999714,50,EU,GB,GB-SCT,Orkney Islands,yes,EGPA,KOI,,,https://en.wikipedia.org/wiki/Kirkwall_Airport,
+2457,EGPB,medium_airport,Sumburgh Airport,59.8788986206,-1.2955600023,20,EU,GB,GB-SCT,Lerwick,yes,EGPB,LSI,,http://www.hial.co.uk/sumburgh-airport.html,https://en.wikipedia.org/wiki/Sumburgh_Airport,Shetlands
+2458,EGPC,medium_airport,Wick Airport,58.4589004517,-3.0930600166,126,EU,GB,GB-SCT,Wick,yes,EGPC,WIC,,http://www.hial.co.uk/wick-airport.html,https://en.wikipedia.org/wiki/Wick_Airport,
+2459,EGPD,large_airport,Aberdeen Dyce Airport,57.2019004822,-2.1977798939,215,EU,GB,GB-SCT,Aberdeen,yes,EGPD,ABZ,,http://www.aberdeenairport.com/,https://en.wikipedia.org/wiki/Aberdeen_Airport,
+2460,EGPE,medium_airport,Inverness Airport,57.5424995422,-4.0475001335,31,EU,GB,GB-SCT,Inverness,yes,EGPE,INV,,http://www.hial.co.uk/inverness-airport.html,https://en.wikipedia.org/wiki/Inverness_Airport,
+2461,EGPF,large_airport,Glasgow International Airport,55.871899,-4.43306,26,EU,GB,GB-SCT,Glasgow,yes,EGPF,GLA,,http://www.glasgowairport.com/,https://en.wikipedia.org/wiki/Glasgow_International_Airport,"Port-adhair Eadar-nàiseanta Ghlaschu, RAF Abbotsinch, RAF Ayr"
+29171,EGPG,small_airport,Cumbernauld Airport,55.9747009277,-3.9755599499,350,EU,GB,GB-SCT,Cumbernauld,no,EGPG,,,,,
+2462,EGPH,large_airport,Edinburgh Airport,55.9500007629,-3.3724999428,135,EU,GB,GB-SCT,Edinburgh,yes,EGPH,EDI,,http://www.edinburghairport.com/,https://en.wikipedia.org/wiki/Edinburgh_Airport,
+2463,EGPI,medium_airport,Islay Airport,55.6819000244,-6.2566699982,56,EU,GB,GB-SCT,Port Ellen,yes,EGPI,ILY,,,https://en.wikipedia.org/wiki/Islay_Airport,Glenegedale
+29172,EGPJ,small_airport,Fife Airport,56.1833,-3.22028,399,EU,GB,GB-SCT,Glenrothes,no,EGPJ,,,,,
+2464,EGPK,medium_airport,Glasgow Prestwick Airport,55.5093994141,-4.5866699219,65,EU,GB,GB-SCT,Glasgow,yes,EGPK,PIK,,http://www.glasgowprestwick.com/,https://en.wikipedia.org/wiki/Glasgow_Prestwick_International_Airport,
+2465,EGPL,medium_airport,Benbecula Airport,57.481098175,-7.3627800941,19,EU,GB,GB-SCT,Balivanich,yes,EGPL,BEB,,http://www.hial.co.uk/benbecula-airport.html,https://en.wikipedia.org/wiki/Benbecula_Airport,
+2466,EGPM,medium_airport,Scatsta Airport,60.432800293,-1.296110034,81,EU,GB,GB-SCT,Shetland Islands,no,EGPM,SCS,,,https://en.wikipedia.org/wiki/Scatsta_Airport,
+2467,EGPN,medium_airport,Dundee Airport,56.4524993896,-3.0258300304,17,EU,GB,GB-SCT,Dundee,yes,EGPN,DND,,http://www.hial.co.uk/dundee-airport.html,https://en.wikipedia.org/wiki/Dundee_Airport,
+2468,EGPO,medium_airport,Stornoway Airport,58.2155990601,-6.3311100006,26,EU,GB,GB-SCT,Stornoway,yes,EGPO,SYY,,http://www.hial.co.uk/stornoway-airport.html,https://en.wikipedia.org/wiki/Stornoway_Airport,Lewis
+29173,EGPR,medium_airport,Barra Airport,57.0228,-7.44306,5,EU,GB,GB-SCT,Eoligarry,yes,EGPR,BRR,,http://www.hial.co.uk/barra-airport.html,https://en.wikipedia.org/wiki/Barra_Airport_(Scotland),"Barra Eoligarry Airport, Barra Island"
+29174,EGPS,heliport,Peterhead Heliport,57.5177993774,-1.8613899946,150,EU,GB,GB-SCT,Peterhead,no,EGPS,,,,,
+29175,EGPT,small_airport,Perth/Scone Airport,56.439201355,-3.3722200394,397,EU,GB,GB-SCT,Perth,no,EGPT,PSL,,,,
+2469,EGPU,medium_airport,Tiree Airport,56.4991989136,-6.8691701889,38,EU,GB,GB-SCT,Balemartine,yes,EGPU,TRE,,http://www.hial.co.uk/tiree-airport.html,https://en.wikipedia.org/wiki/Tiree_Airport,Inner Hebrides
+29176,EGPW,small_airport,Unst Airport,60.7472000122,-0.8538500071,,EU,GB,GB-SCT,Shetland Islands,no,EGPW,UNT,,,,
+29177,EGPY,closed,Dounreay/Thurso Airport,58.5839,-3.72694,22,EU,GB,GB-SCT,Thurso,no,EGPY,,,,,HMS Tern
+29178,EGQB,closed,RAF Ballykelly Air Base (abandoned),55.060299,-7.02028,85,EU,GB,GB-NIR,Ballykelly,no,EGQB,,,,https://en.wikipedia.org/wiki/RAF_Ballykelly,RAF Ballykelly
+2470,EGQK,medium_airport,RAF Kinloss,57.6493988037,-3.5606400967,22,EU,GB,GB-SCT,Kinloss,no,EGQK,FSS,,,https://en.wikipedia.org/wiki/RAF_Kinloss,
+2471,EGQL,medium_airport,RAF Leuchars,56.3728981018,-2.8684399128,38,EU,GB,GB-SCT,St. Andrews,no,EGQL,ADX,,,https://en.wikipedia.org/wiki/RAF_Leuchars,
+2472,EGQS,medium_airport,RAF Lossiemouth,57.7052001953,-3.3391699791,42,EU,GB,GB-SCT,Lossiemouth,no,EGQS,LMO,,http://www.raf.mod.uk/raflossiemouth/,https://en.wikipedia.org/wiki/RAF_Lossiemouth,
+29179,EGSA,small_airport,Shipdham Airfield,52.6293983459,0.9280560017,210,EU,GB,GB-ENG,East Dereham,no,EGSA,,,http://www.shipdhamaeroclub.co.uk/,https://en.wikipedia.org/wiki/RAF_Shipdham,RAF Shipdham
+29180,EGSB,closed,Castle Mill Airfield,52.1432991028,-0.406111002,154,EU,GB,GB-ENG,Bedford,no,EGSB,,,,,
+2473,EGSC,medium_airport,Cambridge Airport,52.205002,0.175,47,EU,GB,GB-ENG,Cambridge,no,EGSC,CBG,,http://www.cambridgeairport.com/,https://en.wikipedia.org/wiki/Cambridge_Airport,"Cambridge City,Cambridge"
+29181,EGSD,heliport,Great Yarmouth - North Denes Heliport,52.6343994141,1.7227799892,6,EU,GB,GB-ENG,Great Yarmouth,no,EGSD,,,,https://en.wikipedia.org/wiki/Great_Yarmouth_-_North_Denes_Airport,
+2474,EGSF,small_airport,Peterborough Business Airport,52.4681015015,-0.2511110008,26,EU,GB,GB-ENG,Conington,no,EGSF,,,http://www.aerolease.co.uk/,https://en.wikipedia.org/wiki/Peterborough_Business_Airport,"Conington Airport, RAF Glatton"
+29182,EGSG,small_airport,Stapleford Aerodrome,51.6525001526,0.1558330059,183,EU,GB,GB-ENG,Stapleford Tawney,no,EGSG,,,http://www.flysfc.com/,https://en.wikipedia.org/wiki/Stapleford_Aerodrome,"Epping Forest, RAF Stapleford Tawney"
+2475,EGSH,large_airport,Norwich International Airport,52.6758003235,1.2827800512,117,EU,GB,GB-ENG,Norwich,yes,EGSH,NWI,,http://www.norwichairport.co.uk/,https://en.wikipedia.org/wiki/Norwich_International_Airport,RAF Horsham St Faith
+307882,EGSI,small_airport,Marshland Airfield,52.643611,0.295,-6,EU,GB,GB-ENG,Wisbech,no,EGSI,,,,,
+29183,EGSJ,small_airport,Seething Airfield,52.511100769,1.4172199965,130,EU,GB,GB-ENG,Seething,no,EGSJ,,,http://www.seething-airfield.com/,https://en.wikipedia.org/wiki/Seething_Airfield,RAF Seething
+29184,EGSK,closed,RAF Hethel,52.5628013611,1.1733299494,,EU,GB,GB-ENG,Hethel,no,EGSK,,,,https://en.wikipedia.org/wiki/RAF_Hethel,
+29185,EGSL,small_airport,Andrewsfield,51.895,0.449167,286,EU,GB,GB-ENG,Braintree,no,EGSL,,,,https://en.wikipedia.org/wiki/Andrewsfield_Airport,RAF Andrews Field
+29186,EGSM,small_airport,Beccles Airfield,52.435299,1.61833,80,EU,GB,GB-ENG,Beccles,no,EGSM,,,http://www.rainair.co.uk/,https://en.wikipedia.org/wiki/Beccles_Airport,RAF Beccles
+29187,EGSN,small_airport,Bourn Airfield,52.210602,-0.0425,226,EU,GB,GB-ENG,Cambridge,no,EGSN,,,http://www.rfcbourn.flyer.co.uk/,https://en.wikipedia.org/wiki/Bourn_Airport,RAF Bourn
+29188,EGSO,small_airport,Crowfield Airfield,52.1711006165,1.111109972,201,EU,GB,GB-ENG,Stowmarket,no,EGSO,,,http://www.crowfieldairfield.co.uk/,https://en.wikipedia.org/wiki/Crowfield_Airfield,
+29189,EGSP,small_airport,Peterborough/Sibson Airport,52.5558013916,-0.3863889873,130,EU,GB,GB-ENG,Peterborough,no,EGSP,,,http://www.nsof.co.uk/,https://en.wikipedia.org/wiki/Peterborough/Sibson_Airport,
+29190,EGSQ,small_airport,Clacton Airfield,51.785,1.13,37,EU,GB,GB-ENG,Clacton-on-Sea,no,EGSQ,,,http://www.clacton-aero-club.uk.com/,https://en.wikipedia.org/wiki/Clacton_Airport,
+29191,EGSR,small_airport,Earls Colne Airfield,51.9143981934,0.6825000048,226,EU,GB,GB-ENG,Earles Colne,no,EGSR,,,,https://en.wikipedia.org/wiki/Earls_Colne_Airfield,RAF Earls Colne
+2476,EGSS,large_airport,London Stansted Airport,51.8849983215,0.2349999994,348,EU,GB,GB-ENG,London,yes,EGSS,STN,,http://www.stanstedairport.com/,https://en.wikipedia.org/wiki/London_Stansted_Airport,LON
+29192,EGST,small_airport,Elmsett Airfield,52.077202,0.9775,246,EU,GB,GB-ENG,Hadleigh,no,EGST,,,,,
+2477,EGSU,small_airport,Duxford Aerodrome,52.090801,0.131944,125,EU,GB,GB-ENG,Duxford,no,EGSU,,,http://www.iwm.org.uk/pilots,https://en.wikipedia.org/wiki/Duxford_Aerodrome,"RAF Duxford,Duxford,IWM Duxford"
+29193,EGSV,small_airport,Old Buckenham Airfield,52.497501,1.05194,194,EU,GB,GB-ENG,Old Buckenham,no,EGSV,,,http://www.oldbuck.com/en/home/,https://en.wikipedia.org/wiki/Old_Buckenham_Airport,RAF Old Buckenham
+29194,EGSW,small_airport,Newmarket Heath Airfield,52.235147,0.350643,100,EU,GB,GB-ENG,Newmarket,no,EGSW,,,,https://en.wikipedia.org/wiki/RAF_Newmarket,RAF Newmarket
+2478,EGSX,small_airport,North Weald Airport,51.721698761,0.1541669965,321,EU,GB,GB-ENG,North Weald Bassett,no,EGSX,,,http://www.northwealdairfield.org/,https://en.wikipedia.org/wiki/North_Weald_Airfield,"RAF North Weald, Epping Forest"
+2479,EGSY,closed,Sheffield City Heliport,53.394299,-1.38849,231,EU,GB,GB-ENG,Sheffield,no,,,,,https://en.wikipedia.org/wiki/Sheffield_City_Airport,"SZD, EGSY"
+29195,EGTA,closed,Aylesbury/Thame Airfield,51.775799,-0.940278,289,EU,GB,GB-ENG,Aylesbury,no,EGTA,,,,,
+29196,EGTB,small_airport,Wycombe Air Park,51.6116981506,-0.8083329797,515,EU,GB,GB-ENG,High Wycombe,no,EGTB,HYC,,,https://en.wikipedia.org/wiki/Wycombe_Air_Park,RAF Booker
+2480,EGTC,medium_airport,Cranfield Airport,52.072201,-0.616667,360,EU,GB,GB-ENG,Cranfield,no,EGTC,,,http://www.cranfieldairport.co.uk/,https://en.wikipedia.org/wiki/Cranfield_Airport,"cranfield, milton keynes, bedford"
+29197,EGTD,small_airport,Dunsfold Aerodrome,51.1171989441,-0.5358330011,172,EU,GB,GB-ENG,Dunsfold,no,EGTD,,,http://www.dunsfoldpark.com,https://en.wikipedia.org/wiki/Dunsfold_Aerodrome,
+2481,EGTE,large_airport,Exeter International Airport,50.7344017029,-3.4138898849,102,EU,GB,GB-ENG,Exeter,yes,EGTE,EXT,,http://www.exeter-airport.co.uk/,https://en.wikipedia.org/wiki/Exeter_International_Airport,
+29198,EGTF,small_airport,Fairoaks Airport,51.3480987549,-0.5588889718,80,EU,GB,GB-ENG,Woking,no,EGTF,,,http://www.alanmann.co.uk/default.asp,https://en.wikipedia.org/wiki/Fairoaks_Airport,
+2482,EGTG,closed,Bristol Filton Airport,51.5194015503,-2.5908300877,226,EU,GB,GB-ENG,Bristol,no,EGTG,FZO,,http://www.bristolfilton.co.uk/,https://en.wikipedia.org/wiki/Bristol_Filton_Airport,RAF Filton
+29199,EGTH,small_airport,Old Warden Airfield,52.087883,-0.318727,110,EU,GB,GB-ENG,Old Warden,no,EGTH,,,,,Shuttleworth
+30064,EGTI,closed,Leavesden Aerodrome,51.689201355,-0.4205560088,335,EU,GB,GB-ENG,Watford,no,EGTI,,,,,
+2483,EGTK,medium_airport,Oxford (Kidlington) Airport,51.8368988037,-1.3200000525,270,EU,GB,GB-ENG,Kidlington,no,EGTK,OXF,,http://www.oxfordairport.co.uk/,https://en.wikipedia.org/wiki/Oxford_Airport,RAF Kidlington
+29200,EGTO,small_airport,Rochester Airport,51.3518981934,0.5033329725,436,EU,GB,GB-ENG,Rochester,no,EGTO,RCS,,http://www.rochesterairport.co.uk/,https://en.wikipedia.org/wiki/Rochester_Airport_%28England%29,
+2484,EGTP,small_airport,Perranporth Airfield,50.3316993713,-5.1774997711,330,EU,GB,GB-ENG,Perranporth,no,EGTP,,,,https://en.wikipedia.org/wiki/Perranporth_Airfield,RAF Perranporth
+29201,EGTR,small_airport,Elstree Airfield,51.6557998657,-0.3258329928,332,EU,GB,GB-ENG,Watford,no,EGTR,,,,,
+2485,EGTU,small_airport,Dunkeswell Airport,50.86,-3.2347222,839,EU,GB,GB-ENG,Dunkeswell,no,EGTU,,,,https://en.wikipedia.org/wiki/Dunkeswell_Aerodrome,
+29202,EGTW,small_airport,Oaksey Park Airport,51.6321983337,-2.0147199631,250,EU,GB,GB-ENG,Malmesbury,no,EGTW,,,,,
+30508,EGUA,closed,RAF Upper Heyford,51.9375,-1.2488900423,436,EU,GB,GB-ENG,Upper Heyford,no,EGUA,UHF,,,https://en.wikipedia.org/wiki/RAF_Upper_Heyford,
+2486,EGUB,medium_airport,RAF Benson,51.6164016724,-1.0958299637,226,EU,GB,GB-ENG,Benson,no,EGUB,BEX,,,https://en.wikipedia.org/wiki/RAF_Benson,
+29642,EGUD,small_airport,RAF Abingdon,51.6902999878,-1.316669941,259,EU,GB,GB-ENG,Abingdon,no,EGUD,,,,https://en.wikipedia.org/wiki/RAF_Abingdon,ABB
+307983,EGUK,closed,Waterbeach Airfield,52.281742,0.184532,19,EU,GB,GB-ENG,Waterbeach,no,,,,,https://en.wikipedia.org/wiki/RAF_Waterbeach,RAF Waterbeach
+2487,EGUL,large_airport,RAF Lakenheath,52.4093017578,0.5609999895,32,EU,GB,GB-ENG,Lakenheath,no,EGUL,LKZ,,http://www.lakenheath.af.mil/,https://en.wikipedia.org/wiki/RAF_Lakenheath,
+2488,EGUN,large_airport,RAF Mildenhall,52.3619003296,0.4864059985,33,EU,GB,GB-ENG,Mildenhall,no,EGUN,MHZ,,http://www.mildenhall.af.mil/,https://en.wikipedia.org/wiki/RAF_Mildenhall,
+2489,EGUO,small_airport,Colerne Airport,51.4390983582,-2.2863900662,593,EU,GB,GB-ENG,Colerne,no,EGUO,,,,https://en.wikipedia.org/wiki/Colerne_Airfield,RAF Colerne
+30401,EGUP,small_airport,RAF Sculthorpe,52.846698761,0.7663890123,213,EU,GB,GB-ENG,Fakeham,no,EGUP,,,,https://en.wikipedia.org/wiki/RAF_Sculthorpe,
+307985,EGUT,closed,RAF Tangmere,50.845833,-0.706389,41,EU,GB,GB-ENG,Tangmere,no,EGUT,,,,https://en.wikipedia.org/wiki/RAF_Tangmere,
+307989,EGUV,closed,RAF Thorney Island,50.816048,-0.9200336,12,EU,GB,GB-ENG,West Thorney,no,EGUV,,,,https://en.wikipedia.org/wiki/RAF_Thorney_Island,
+2490,EGUW,medium_airport,Wattisham Airfield,52.127451,0.956189,284,EU,GB,GB-ENG,Stowmarket,no,EGUW,,,,https://en.wikipedia.org/wiki/RAF_Wattisham,
+2491,EGUY,medium_airport,RAF Wyton,52.3572006226,-0.107832998,135,EU,GB,GB-ENG,St. Ives,no,EGUY,QUY,,,https://en.wikipedia.org/wiki/RAF_Wyton,
+2492,EGVA,large_airport,RAF Fairford,51.6822013855,-1.7900300026,286,EU,GB,GB-ENG,Fairford,no,EGVA,FFD,,,https://en.wikipedia.org/wiki/RAF_Fairford,
+29204,EGVF,heliport,Fleetlands Heliport,50.8353004456,-1.169170022,3,EU,GB,GB-ENG,Gosport,no,EGVF,PME,,,,
+30567,EGVG,closed,RAF Woodbridge,52.0900001526,1.4058300257,95,EU,GB,GB-ENG,Woodbridge,no,EGVG,,,,https://en.wikipedia.org/wiki/RAF_Woodbridge,
+29697,EGVJ,closed,RAF Bentwaters,52.1274986267,1.4347200394,85,EU,GB,GB-ENG,Woodbridge,no,EGVJ,BWY,,,https://en.wikipedia.org/wiki/RAF_Bentwaters,
+314589,EGVL,closed,RAF Little Rissington,51.8675,-1.695333,730,EU,GB,GB-ENG,,no,EGVL,,,,https://en.wikipedia.org/wiki/RAF_Little_Rissington,
+2493,EGVN,large_airport,RAF Brize Norton,51.75,-1.58362,288,EU,GB,GB-ENG,Brize Norton,yes,EGVN,BZZ,,http://www.raf.mod.uk/rafbrizenorton/passengers/,https://en.wikipedia.org/wiki/RAF_Brize_Norton,Royal Air Force
+2494,EGVO,medium_airport,RAF Odiham,51.2341003418,-0.9428250194,405,EU,GB,GB-ENG,Odiham,no,EGVO,ODH,,,https://en.wikipedia.org/wiki/RAF_Odiham,
+29205,EGVP,small_airport,Middle Wallop Airfield,51.1394004822,-1.5686099529,297,EU,GB,GB-ENG,Middle Wallop,no,EGVP,,,,,
+32687,EGVT,closed,Wethersfield Airport,51.971901,0.509444,322,EU,GB,GB-ENG,Wethersfield,no,EGVT,,,,https://en.wikipedia.org/wiki/RAF_Wethersfield,RAF Wethersfield
+30618,EGWA,heliport,Andover Airfield,51.2079048157,-1.528236866,249,EU,GB,GB-ENG,Andover,no,EGWA,,,,https://en.wikipedia.org/wiki/RAF_Andover,"RAF Andover, ADV"
+2495,EGWC,medium_airport,DCAE Cosford Air Base,52.639999,-2.30558,272,EU,GB,GB-ENG,Cosford,no,EGWC,,,http://www.raf.mod.uk/dcaecosford/,https://en.wikipedia.org/wiki/DCAE_Cosford,RAF Cosford
+29206,EGWE,small_airport,RAF Henlow,52.0181999207,-0.3038499951,206,EU,GB,GB-ENG,Henlow,no,EGWE,,,,https://en.wikipedia.org/wiki/RAF_Henlow,
+29207,EGWN,small_airport,RAF Halton,51.7906990051,-0.7379720211,370,EU,GB,GB-ENG,Halton,no,EGWN,,,http://www.raf.mod.uk/rafhalton/,https://en.wikipedia.org/wiki/RAF_Halton,
+2496,EGWU,medium_airport,RAF Northolt,51.5530014038,-0.418166995,124,EU,GB,GB-ENG,London,no,EGWU,NHT,,http://www.raf.mod.uk/rafnortholt/,https://en.wikipedia.org/wiki/RAF_Northolt,
+29652,EGWZ,closed,RAF Alconbury,52.3744010925,-0.2197220027,157,EU,GB,GB-ENG,Huntingdon,no,EGWZ,AYH,,,https://en.wikipedia.org/wiki/RAF_Alconbury,
+307364,EGXA,closed,RAF Manby,53.3611111111,0.0861111111,50,EU,GB,GB-ENG,Manby,no,EGXA,,,http://www.pastscape.org.uk/hob.aspx?a=0&hob_id=1402569,,Manby Airfield
+30597,EGXB,closed,Binbrook Airfield,53.4467010498,-0.2099999934,,EU,GB,GB-ENG,Grimsby,no,EGXB,GSY,,,https://en.wikipedia.org/wiki/RAF_Binbrook,"Waltham, RAF Binbrook"
+2497,EGXC,medium_airport,RAF Coningsby,53.0929985046,-0.1660140008,25,EU,GB,GB-ENG,Coningsby,no,EGXC,QCY,,http://www.raf.mod.uk/rafconingsby,https://en.wikipedia.org/wiki/RAF_Coningsby,
+2498,EGXD,medium_airport,RAF Dishforth,54.1371994019,-1.4202500582,117,EU,GB,GB-ENG,Dishforth,no,EGXD,,,,https://en.wikipedia.org/wiki/RAF_Dishforth,Royal Air Force
+2499,EGXE,medium_airport,RAF Leeming Air Base,54.2924,-1.5354,132,EU,GB,GB-ENG,Leeming,no,EGXE,,,,https://en.wikipedia.org/wiki/RAF_Leeming,
+2500,EGXG,medium_airport,Leeds East Airport,53.834301,-1.1955,29,EU,GB,GB-ENG,Church Fenton,no,EGCM,,,http://www.leedseastairport.co.uk,https://en.wikipedia.org/wiki/Leeds_East_Airport,RAF Church Fenton
+2501,EGXH,medium_airport,RAF Honington,52.3426017761,0.7729390264,174,EU,GB,GB-ENG,Thetford,no,EGXH,BEQ,,,https://en.wikipedia.org/wiki/RAF_Honington,
+2502,EGXJ,closed,RAF Cottesmore,52.735699,-0.648769,461,EU,GB,GB-ENG,Cottesmore,no,EGXJ,OKH,,http://www.raf.mod.uk/rafcottesmore/,https://en.wikipedia.org/wiki/RAF_Cottesmore,
+29208,EGXN,closed,RAF Newton,52.9664001465,-0.9894440174,180,EU,GB,GB-ENG,,no,EGXN,,,,https://en.wikipedia.org/wiki/RAF_Newton,
+2503,EGXP,medium_airport,RAF Scampton,53.307800293,-0.5508329868,202,EU,GB,GB-ENG,Scampton,no,EGXP,SQZ,,,https://en.wikipedia.org/wiki/RAF_Scampton,
+30594,EGXQ,closed,RAF Lindholme,53.549999,-0.967,20,EU,GB,GB-ENG,Doncaster,no,EGXQ,,,http://www.wartimememories.co.uk/airfields/lindholme.html,https://en.wikipedia.org/wiki/RAF_Lindholme,RAF Hatfield Woodhouse
+30452,EGXS,closed,RAF Swinderby,53.1497001648,-0.6822220087,69,EU,GB,GB-ENG,Swinderby,no,EGXS,,,http://www.raf.mod.uk/bombercommand/s80.html,https://en.wikipedia.org/wiki/RAF_Swinderby,
+2504,EGXT,medium_airport,RAF Wittering,52.612598,-0.476453,273,EU,GB,GB-ENG,Wittering,no,EGXT,,,http://www.raf.mod.uk/rafwittering/,https://en.wikipedia.org/wiki/RAF_Wittering,
+2505,EGXU,medium_airport,RAF Linton-On-Ouse,54.0489006042,-1.2527500391,53,EU,GB,GB-ENG,Linton-On-Ouse,no,EGXU,HRT,,,https://en.wikipedia.org/wiki/RAF_Linton-on-Ouse,
+29209,EGXV,closed,RAF Leconfield,53.875801,-0.435,36,EU,GB,GB-ENG,Leconfield,no,EGXV,,,,https://en.wikipedia.org/wiki/RAF_Leconfield,
+2506,EGXW,medium_airport,RAF Waddington,53.1661987305,-0.5238109827,231,EU,GB,GB-ENG,Waddington,no,EGXW,WTN,,http://www.raf.mod.uk/rafwaddington,https://en.wikipedia.org/wiki/RAF_Waddington,
+2507,EGXY,small_airport,RAF Syerston,53.0228004456,-0.9111109972,228,EU,GB,GB-ENG,Newark,no,EGXY,,,,https://en.wikipedia.org/wiki/RAF_Syerston,
+2508,EGXZ,medium_airport,RAF Topcliffe,54.2055015564,-1.3820899725,92,EU,GB,GB-ENG,Topcliffe,no,EGXZ,,,,https://en.wikipedia.org/wiki/RAF_Topcliffe,
+29210,EGYC,closed,RAF Coltishall,52.7547,1.35722,66,EU,GB,GB-ENG,Norwich,no,EGYC,CLF,,,https://en.wikipedia.org/wiki/RAF_Coltishall,
+2509,EGYD,medium_airport,RAF Cranwell,53.0303001404,-0.4832420051,218,EU,GB,GB-ENG,Cranwell,no,EGYD,,,http://www.raf.mod.uk/rafcranwell/,https://en.wikipedia.org/wiki/RAF_Cranwell,
+2510,EGYE,medium_airport,RAF Barkston Heath,52.9622001648,-0.5616250038,367,EU,GB,GB-ENG,Grantham,no,EGYE,,,,https://en.wikipedia.org/wiki/RAF_Barkston_Heath,
+30595,EGYI,small_airport,Strubby Glider Field,53.30775,0.16737,46,EU,GB,GB-ENG,Strubby,no,,,,http://www.lincsgliding.org.uk/,https://en.wikipedia.org/wiki/RAF_Strubby,"RAF Strubby, Lincolnshire Gliding Club"
+2511,EGYM,medium_airport,RAF Marham,52.648395,0.550692,75,EU,GB,GB-ENG,Marham,no,EGYM,KNF,,http://www.raf.mod.uk/rafmarham/,https://en.wikipedia.org/wiki/RAF_Marham,King's Lynn
+317476,EGYO,small_airport,North Coates,53.498,0.0625,,EU,GB,GB-ENG,,no,EGYO,,,http://www.northcoatesflyingclub.co.uk/,,
+2512,EGYP,medium_airport,Mount Pleasant Airport,-51.8227996826,-58.4472007751,244,SA,FK,FK-U-A,Mount Pleasant,yes,EGYP,MPN,,,https://en.wikipedia.org/wiki/RAF_Mount_Pleasant,RAF Mount Pleasant
+314595,EGZL,small_airport,Feshiebridge Glider Field,57.103667,-3.891667,,EU,GB,GB-SCT,,no,EGZL,,,http://www.gliding.org/,,
+314597,EGZV,small_airport,Lundy Island Airfield,51.170505,-4.670758,455,EU,GB,GB-ENG,,no,EGZV,,,,,
+318923,EH-0001,small_airport,Tifariti Airstrip,26.15126,-10.564245,1624,AF,EH,EH-U-A,Tifariti,no,,,,,,
+318924,EH-0002,small_airport,Al Mahbes Airstrip,27.409695,-9.073016,1520,AF,EH,EH-U-A,Al Mahbes,no,,,,,,
+320814,EH58,heliport,Brunssum Joint Force Command Heliport,50.9437,6.0052,356,EU,NL,NL-LI,Brunssum,no,EH58,,EH58,,,
+28120,EHAL,small_airport,Ameland Airfield,53.451698,5.67722,11,EU,NL,NL-FR,Ameland,no,EHAL,,,http://www.ehal.nl/,https://en.wikipedia.org/wiki/Ameland_Airport,Aachen
+2513,EHAM,large_airport,Amsterdam Airport Schiphol,52.308601,4.76389,-11,EU,NL,NL-NH,Amsterdam,yes,EHAM,AMS,,http://www.schiphol.nl/,https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol,
+2514,EHBD,medium_airport,Budel Airfield Kempen,51.255299,5.60139,114,EU,NL,NL-NB,Weert,no,EHBD,,,http://www.kempenairport.nl/,https://en.wikipedia.org/wiki/Kempen_Airport,"Kempen Airport, Budel Aerodrome"
+2515,EHBK,medium_airport,Maastricht Aachen Airport,50.911701,5.77014,375,EU,NL,NL-LI,Maastricht,yes,EHBK,MST,,,https://en.wikipedia.org/wiki/Maastricht_Aachen_Airport,
+2516,EHDL,medium_airport,Deelen Air Base,52.0606,5.87306,158,EU,NL,NL-GE,Arnhem,no,EHDL,,,,https://en.wikipedia.org/wiki/Deelen_Air_Base,QAR
+29211,EHDP,medium_airport,De Peel Air Base,51.5172996521,5.8557200432,98,EU,NL,NL-LI,Venray,no,EHDP,,,http://www.defensie.nl/luchtmacht/luchtmachtbases/de_peel/,https://en.wikipedia.org/wiki/De_Peel_Air_Base,
+2517,EHDR,small_airport,Drachten Airport,53.1192016602,6.129720211,14,EU,NL,NL-FR,Drachten,no,EHDR,,,,https://en.wikipedia.org/wiki/Drachten_Airfield,
+299211,EHDS,small_airport,Aero Club Salland,52.4683333333,6.3333333333,10,EU,NL,NL-OV,Lemelerveld,no,EHDS,,,http://aeroclubsalland.nl/,http://nl.wikipedia.org/wiki/Aero_Club_Salland,Dalfsen Gliders
+2518,EHEH,large_airport,Eindhoven Airport,51.4500999451,5.3745298386,74,EU,NL,NL-NB,Eindhoven,yes,EHEH,EIN,,http://www.eindhovenairport.nl/,https://en.wikipedia.org/wiki/Eindhoven_Airport,Welschap Airport
+2519,EHGG,medium_airport,Eelde Airport,53.1197013855,6.5794401169,17,EU,NL,NL-DR,Groningen,yes,EHGG,GRQ,,,https://en.wikipedia.org/wiki/Groningen_Airport_Eelde,
+2520,EHGR,medium_airport,Gilze Rijen Air Base,51.567401886,4.9318299294,49,EU,NL,NL-NB,Breda,no,EHGR,GLZ,,http://www.defensie.nl/luchtmacht/luchtmachtbases/gilze-rijen/,https://en.wikipedia.org/wiki/Gilze-Rijen_Air_Base,
+43207,EHHA,heliport,Amsterdam Heliport,52.4146250808,4.8048019409,1,EU,NL,NL-NH,Amsterdam,no,EHHA,,,http://www.amsterdamheliport.com/,https://en.wikipedia.org/wiki/Amsterdam_Heliport,
+332213,EHHE,heliport,Eemshaven Heliport,53.461813,6.81437,,EU,NL,NL-GR,,no,EHHE,,,,https://nl.wikipedia.org/wiki/Heliport_Eemshaven,
+28121,EHHO,small_airport,Hoogeveen Airfield,52.730801,6.51611,40,EU,NL,NL-DR,Hoogeveen,no,EHHO,,,http://www.vliegveldhoogeveen.nl/pages/whiterings_indexpag.html,https://en.wikipedia.org/wiki/Hoogeveen_Airport,
+28122,EHHV,small_airport,Hilversum Airfield,52.191898,5.14694,3,EU,NL,NL-NH,Hilversum,no,EHHV,,,http://www.ehhv.nl/,https://en.wikipedia.org/wiki/Hilversum_Airport,Gooi
+322080,EHHW,heliport,Buitengaats / BG-OHVS2 Helipad,54.0369,6.041833,,EU,NL,NL-FR,Gemini Wind Farm,no,EHHW,,,,https://en.wikipedia.org/wiki/Gemini_Wind_Farm,
+2521,EHKD,medium_airport,De Kooy Airport,52.9234008789,4.7806200981,3,EU,NL,NL-NH,Den Helder,no,EHKD,DHR,,,https://en.wikipedia.org/wiki/De_Kooy,
+2522,EHLE,medium_airport,Lelystad Airport,52.4603,5.52722,-13,EU,NL,NL-FL,Lelystad,no,EHLE,LEY,,https://www.lelystadairport.nl/,https://en.wikipedia.org/wiki/Lelystad_Airport,
+2523,EHLW,medium_airport,Leeuwarden Air Base,53.2285995483,5.7605600357,3,EU,NL,NL-FR,Leeuwarden,no,EHLW,LWR,,http://www.defensie.nl/luchtmacht/luchtmachtbases/leeuwarden/,https://en.wikipedia.org/wiki/Leeuwarden_Air_Base,
+29212,EHMC,heliport,Air Operations Control Station Nieuw Milligen,52.2231727254,5.7678222656,171,EU,NL,NL-GE,Nieuw Milligen,no,EHMC,,,http://www.defensie.nl/luchtmacht/luchtmachtbases/aocs_nieuw_milligen/,https://en.wikipedia.org/wiki/Air_Operations_Control_Station_Nieuw-Milligen,
+28123,EHMZ,small_airport,Midden-Zeeland Airport,51.5121994019,3.731110096,6,EU,NL,NL-ZL,Middelburg,no,EHMZ,,,http://www.zeeland-airport.nl/,https://en.wikipedia.org/wiki/Midden-Zeeland_Airport,
+316445,EHND,small_airport,Vliegveld Numansdorp,51.7530556,4.4552778,3,EU,NL,NL-ZH,Numansdorp,no,EHND,,,,,
+332661,EHNP,closed,Noordoostpolder / Emmeloord Aerodrome,52.73071,5.746676,-12,EU,NL,NL-FL,,no,EHNP,,,,https://nl.wikipedia.org/wiki/Vliegveld_Noordoostpolder,
+46371,EHOW,small_airport,Oostwold Airfield,53.209758,7.036519,3,EU,NL,NL-GR,,no,EHOW,,,http://www.oostwold-airport.nl/,https://en.wikipedia.org/wiki/Oostwold_Airport,
+2524,EHRD,medium_airport,Rotterdam The Hague Airport,51.956902,4.43722,-15,EU,NL,NL-ZH,Rotterdam,yes,EHRD,RTM,,,https://en.wikipedia.org/wiki/Rotterdam_Airport,Vliegveld Zestienhoven
+2525,EHSB,closed,Soesterberg Air Base,52.1273,5.27619,66,EU,NL,NL-UT,Soesterberg,no,EHSB,UTC,,,https://en.wikipedia.org/wiki/Soesterberg_Air_Base,"ACvZ, Amsterdamsche Club voor Zweefvliegen"
+28124,EHSE,small_airport,Seppe Airfield,51.554699,4.5525,30,EU,NL,NL-NB,Hoeven,no,EHSE,,,http://www.seppe-airport.com/,https://en.wikipedia.org/wiki/Seppe_Airport,
+28125,EHST,small_airport,Stadskanaal Airfield,52.9986,7.02278,14,EU,NL,NL-GR,Stadskanaal,no,EHST,,,http://www.ulv.nl/,https://en.wikipedia.org/wiki/Stadskanaal_Airfield,
+28126,EHTE,small_airport,Teuge Airport,52.2447013855,6.04666996,17,EU,NL,NL-GE,Deventer,no,EHTE,,,http://www.teuge-airport.nl/,https://en.wikipedia.org/wiki/Teuge_Airport,"Teuge, Apeldoorn, Deventer"
+28127,EHTL,small_airport,Terlet Glider Field,52.057201,5.92444,276,EU,NL,NL-GE,Terlet,no,EHTL,,,http://www.terlet.nl/,https://en.wikipedia.org/wiki/Terlet_Airfield,"terlet, szt, gezc, Stichting Zweefvliegers Terlet, Gelderse Zweefvliegclub, De Thermiekbel"
+43209,EHTP,heliport,Maasvlakte Heliport,51.959400177,4.0900001526,3,EU,NL,NL-ZH,Rotterdam,no,EHTP,,,,https://en.wikipedia.org/wiki/Maasvlakte_Heliport,
+2526,EHTW,medium_airport,Twente Airport,52.275833,6.889167,114,EU,NL,NL-OV,Enschede,no,EHTW,ENS,,https://www.twente-airport.nl/,https://en.wikipedia.org/wiki/Enschede_Airport_Twente,
+28128,EHTX,small_airport,Texel Airfield,53.115299,4.83361,2,EU,NL,NL-NH,Texel,no,EHTX,,,http://www.texelairport.nl/,https://en.wikipedia.org/wiki/Texel_International_Airport,
+2527,EHVB,closed,Valkenburg Naval Air Base,52.1660995483,4.4179401398,1,EU,NL,NL-ZH,Leiden,no,EHVB,LID,,,https://en.wikipedia.org/wiki/Valkenburg_Naval_Air_Base,
+2528,EHVK,medium_airport,Volkel Air Base,51.657222,5.7077778,72,EU,NL,NL-NB,Uden,no,EHVK,,,http://www.defensie.nl/luchtmacht/luchtmachtbases/volkel/,https://en.wikipedia.org/wiki/Volkel_Air_Base,The Hague
+43210,EHVL,heliport,Vlieland Heliport,53.2966651917,5.0858330727,37,EU,NL,NL-FR,Vlieland,no,EHVL,,,,https://en.wikipedia.org/wiki/Vlieland_Heliport,
+2529,EHWO,medium_airport,Woensdrecht Air Base,51.4491,4.34203,63,EU,NL,NL-NB,Bergen Op Zoom,no,EHWO,WOE,,http://www.defensie.nl/luchtmacht/luchtmachtbases/woensdrecht/,https://en.wikipedia.org/wiki/Woensdrecht_Air_Base,BZM
+43208,EHYP,heliport,IJmuiden Heliport,52.469799,4.5933,1,EU,NL,NL-NH,Ĳmuiden,no,EHYP,,,,https://en.wikipedia.org/wiki/IJmuiden_Heliport,
+29213,EIAB,small_airport,Abbeyshrule Aerodrome,53.5917015076,-7.6455597878,195,EU,IE,IE-LD,Abbeyshrule,no,EIAB,,,,https://en.wikipedia.org/wiki/Abbeyshrule_Aerodrome,
+30992,EIBA,small_airport,Ballyboughal Aerodrome,53.5055556,-6.2377778,180,EU,IE,IE-D,Fingal,no,EIBB,,,http://www.eibb.ie,,
+30993,EIBB,closed,Brittas Bay Airfield,52.858208,-6.06759,50,EU,IE,IE-WW,Brittas Bay,no,EIBB,,,,,
+29214,EIBN,small_airport,Bantry Aerodrome,51.668598175,-9.48416996,7,EU,IE,IE-C,Bantry,no,EIBN,BYT,,,https://en.wikipedia.org/wiki/Bantry_Aerodrome,Beanntraí
+29215,EIBR,small_airport,Birr Aerodrome,53.0705986023,-7.8983302116,250,EU,IE,IE-OY,Birr,no,EIBR,,,http://www.ormandflyingclub.com/,https://en.wikipedia.org/wiki/Birr_Aerodrome,Biorra
+29216,EIBT,small_airport,Belmullet Aerodrome,54.2228012085,-10.0307998657,150,EU,IE,IE-MO,Belmullet,no,EIBT,BLY,,,https://en.wikipedia.org/wiki/Belmullet_Aerodrome,Béal an Mhuirthead
+27309,EICA,small_airport,Connemara Regional Airport,53.2303009033,-9.4677801132,70,EU,IE,IE-G,Inverin,yes,EICA,NNR,,http://www.aerarannislands.ie/,https://en.wikipedia.org/wiki/Aerfort_na_Minna,"Aerfort na Minna, Indreabhán"
+29217,EICB,closed,Castlebar Airport,53.8484,-9.28037,,EU,IE,IE-MO,Castlebar,no,EICB,CLB,,,,
+44000,EICD,closed,Castlebridge Airport,52.369131,-6.451021,79,EU,IE,IE-WX,Wexford,no,,,,,,"WEX, EICD"
+2530,EICK,large_airport,Cork Airport,51.8413009644,-8.491109848,502,EU,IE,IE-C,Cork,yes,EICK,ORK,,http://www.corkairport.com/,https://en.wikipedia.org/wiki/Cork_Airport,Aerfort Chorcaí
+29218,EICL,small_airport,Clonbullogue Aerodrome,53.2496566772,-7.1227455139,240,EU,IE,IE-OY,Clonbullogue,no,EICL,,,http://www.skydive.ie/about/location.html,https://en.wikipedia.org/wiki/Clonbullogue_Aerodrome,
+2531,EICM,medium_airport,Galway Airport,53.300201416,-8.9415903091,81,EU,IE,IE-G,Galway,yes,EICM,GWY,,http://www.galwayairport.com/,https://en.wikipedia.org/wiki/Galway_Airport,
+29219,EICN,small_airport,Coonagh Aerodrome,52.6665000916,-8.6818304062,6,EU,IE,IE-LK,Limerick,no,EICN,,,,,
+30994,EICS,closed,Castleforbes Airport,53.778301,-7.83528,150,EU,IE,IE-LD,Castleforbes,no,EICS,,,,,
+2532,EIDL,medium_airport,Donegal Airport,55.0442008972,-8.3409996033,30,EU,IE,IE-DL,Donegal,yes,EIDL,CFN,,http://www.donegalairport.ie/,https://en.wikipedia.org/wiki/Donegal_Airport,Gweedore
+2533,EIDW,large_airport,Dublin Airport,53.421299,-6.27007,242,EU,IE,IE-D,Dublin,yes,EIDW,DUB,,http://www.dublinairport.com/,https://en.wikipedia.org/wiki/Dublin_Airport,Aerfort Bhaile Átha Cliath
+43999,EIER,small_airport,Erinagh Airport,52.8125,-8.2822217941,155,EU,IE,IE-TA,Nenagh,no,EIER,,,,,
+312096,EIFR,heliport,Finner Camp Heliport,54.49273,-8.24091,107,EU,IE,IE-DL,Ballyshannon,no,EIFR,,,,,
+29902,EIGM,closed,Gormanston Aerodrome,53.6347999573,-6.2277002335,69,EU,IE,IE-MH,Gormanston,no,EIGM,,,,https://en.wikipedia.org/wiki/Gormanston_Aerodrome,
+29906,EIGN,small_airport,Gowran Grange Aerodrome,53.1786003113,-6.6352801323,489,EU,IE,IE-KE,Swordlestown,no,EIGN,,,,,
+315675,EIHH,small_airport,Navan Airfield,53.695489,-6.654094,250,EU,IE,IE-MH,Navan,no,EIHH,,,http://www.navanairfield.com/,,
+29220,EIHN,small_airport,Hacketstown Aerodrome,52.8549995422,-6.5472202301,610,EU,IE,IE-CW,Hacketstown,no,EIHN,,,,,Baile Haicéid
+43996,EIIH,small_airport,Abbeyleix,52.892223,-7.262778,614,EU,IE,IE-LS,Abbeyleix,no,,,,,,Midland Microlight Centre
+29221,EIIM,small_airport,Inishmore Aerodrome,53.1067008972,-9.6536102295,24,EU,IE,IE-G,Inis Mór,yes,EIIM,IOR,,,https://en.wikipedia.org/wiki/Inishmore_Aerodrome,Aran Islands
+29222,EIIR,small_airport,Inisheer Aerodrome,53.0647010803,-9.5108995438,40,EU,IE,IE-G,Inis Oírr,yes,EIIR,INQ,,,,Aran Islands
+29223,EIKH,small_airport,Kildare Aerodrome,53.0635986328,-6.8552799225,260,EU,IE,IE-KE,Kilrush,no,EIKH,,,,,
+30997,EIKI,closed,Killenaule Airport,52.6329994202,-7.632999897,680,EU,IE,IE-TA,Killenaule,no,EIKI,,,,,
+29224,EIKK,small_airport,Kilkenny Airport,52.6507987976,-7.2961101532,319,EU,IE,IE-KK,Kilkenny,no,EIKK,KKY,,http://www.kilkennyflying-glidingclub.com/,https://en.wikipedia.org/wiki/Kilkenny_Airport,EIKL
+2534,EIKN,medium_airport,Ireland West Knock Airport,53.9103012085,-8.8184900284,665,EU,IE,IE-MO,Charleston,yes,EIKN,NOC,,http://www.irelandwestairport.com/,https://en.wikipedia.org/wiki/Ireland_West_Airport_Knock,Connaught
+2535,EIKY,medium_airport,Kerry Airport,52.1809005737,-9.5237798691,112,EU,IE,IE-KY,Killarney,yes,EIKY,KIR,,http://www.kerryairport.ie/,https://en.wikipedia.org/wiki/Kerry_Airport,
+29225,EILT,small_airport,Letterkenny Airfield,54.951302,-7.67283,20,EU,IE,IE-DL,Letterkenny,no,EILT,LTR,,,,
+2536,EIME,medium_airport,Casement Air Base,53.301700592,-6.4513301849,319,EU,IE,IE-D,Baldonnel,no,EIME,,,,https://en.wikipedia.org/wiki/Casement_Aerodrome,RAF Baldonnel
+30998,EIMG,closed,Moneygall Aerodrome,52.849998,-7.983,450,EU,IE,IE-OY,Moneygall,no,EIMG,,,,,Muine Gall
+43997,EIMH,small_airport,Athboy Airport,53.6377792358,-6.8786110878,230,EU,IE,IE-MH,Athboy,no,EIMH,,,,,
+29226,EIMN,small_airport,Inishmaan Aerodrome,53.0929985046,-9.5680599213,15,EU,IE,IE-G,Inis Meáin,yes,EIMN,IIA,,,,Aran Islands
+321626,EIMS,seaplane_base,Mountshannon Seaplane Base,52.9305,-8.4245,103,EU,IE,IE-CE,Mountshannon,no,EIMS,,,http://www.harbourflights.com,,
+29227,EIMY,closed,Moyne Aerodrome,52.703098,-7.70528,400,EU,IE,IE-TA,Thurles,no,EIMY,,,,https://en.wikipedia.org/wiki/Moyne_Aerodrome,Áth na nUrlainn
+29228,EINC,small_airport,Newcastle Aerodrome,53.0710983276,-6.0452799797,1,EU,IE,IE-WW,Newcastle,no,EINC,,,,,
+2537,EINN,large_airport,Shannon Airport,52.702,-8.92482,46,EU,IE,IE-CE,Shannon,yes,EINN,SNN,,http://www.shannonairport.com/,https://en.wikipedia.org/wiki/Shannon_Airport,
+30999,EIPT,closed,Powerscourt Airfield,53.178301,-6.196495,470,EU,IE,IE-WW,Powerscourt,no,EIPT,,,,,
+29229,EIRT,small_airport,Rathcoole Aerodrome,52.1055984497,-8.9833297729,281,EU,IE,IE-C,Rathcoole,no,EIRT,,,,,
+2538,EISG,medium_airport,Sligo Airport,54.2802009583,-8.5992097855,11,EU,IE,IE-SO,Sligo,no,EISG,SXL,,http://www.sligoairport.com/,https://en.wikipedia.org/wiki/Sligo_Airport,
+29230,EISP,small_airport,Spanish Point Airfield,52.845839,-9.414876,,EU,IE,IE-CE,Spanish Point,no,EISP,,,,,
+29231,EITM,small_airport,Trim Aerodrome,53.5746994019,-6.7386097908,200,EU,IE,IE-MH,Trim,no,EITM,,,,https://en.wikipedia.org/wiki/Trim_Aerodrome,
+43998,EITT,closed,Trevet Airfield,53.543611,-6.531944,385,EU,IE,IE-MH,Dunshaughlin,no,EITT,,,http://www.trevetairfield.com/,,
+2539,EIWF,medium_airport,Waterford Airport,52.1871986389,-7.0869598389,119,EU,IE,IE-WD,Waterford,yes,EIWF,WAT,,http://flywaterford.com/,https://en.wikipedia.org/wiki/Waterford_Airport,
+27310,EIWT,medium_airport,Weston Airport,53.3521995544,-6.4861102104,150,EU,IE,IE-KE,Leixlip,no,EIWT,,,http://www.westonairport.com/,https://en.wikipedia.org/wiki/Weston_Airport,Dublin
+314559,EJN,small_airport,Ejin Banner-Taolai Airport,42.0155,101.0005,3077,AS,CN,CN-15,Ejin Banner,yes,ZBEN,EJN,,,https://en.wikipedia.org/wiki/Ejin_Banner_Taolai_Airport,
+317874,EJT,small_airport,Enejit Airport,6.0404,171.9846,30,OC,MH,MH-MIL,Enejit Island,yes,,EJT,,,https://en.wikipedia.org/wiki/Enejit_Airport,Enajet
+326142,EKAC,seaplane_base,Aarhus Seaplane Terminal,56.151717,10.248428,,EU,DK,DK-U-A,Aarhus,no,EKAC,,,,,
+29647,EKAE,small_airport,Ærø Airport,54.8527984619,10.4563999176,3,EU,DK,DK-83,Ærø,no,EKAE,,,,,"Aero, Aeroe"
+2540,EKAH,medium_airport,Aarhus Airport,56.2999992371,10.6190004349,82,EU,DK,DK-82,Aarhus,yes,EKAH,AAR,,http://www.aar.dk/default.asp?id=87,https://en.wikipedia.org/wiki/Aarhus_Airport,
+29233,EKAL,closed,Allerød Airport,55.870300293,12.3155002594,135,EU,DK,DK-84,Allerød,no,EKAL,,,,,"Allerod, Alleroed"
+44022,EKAR,heliport,South (Syd) Arne Helideck,56.080280304,4.2303891182,,EU,DK,DK-U-A,,no,EKAR,,,,,
+29234,EKAT,small_airport,Anholt Airport,56.6988983154,11.5558996201,23,EU,DK,DK-82,Anholt,no,EKAT,,,http://www.anholt.dk/anholt_flyveplads.htm,,
+31000,EKAV,closed,Avnø Air Base,55.083,11.783,13,EU,DK,DK-85,Avnø,no,EKAV,,,,,"Avno, Avnoe"
+318287,EKBH,small_airport,Svæveflyvecenter Arnborg,56.011944,9.0125,,EU,DK,DK-82,Arnborg,no,EKAB,,,,,"Bolhede, Arnborg"
+2541,EKBI,large_airport,Billund Airport,55.7402992249,9.1517801285,247,EU,DK,DK-83,Billund,yes,EKBI,BLL,,http://www.billund-airport.dk/?sc_lang=en,https://en.wikipedia.org/wiki/Billund_Airport,
+44008,EKCE,heliport,Cecilie Helideck,56.4021148682,4.7596111298,,EU,DK,DK-U-A,,no,EKCE,,,,,
+2542,EKCH,large_airport,Copenhagen Kastrup Airport,55.6179008484,12.6560001373,17,EU,DK,DK-84,Copenhagen,yes,EKCH,CPH,,http://www.cph.dk/en/,https://en.wikipedia.org/wiki/Copenhagen_Airport,"København, Malmö"
+317784,EKCR,small_airport,Christianshede,56.105,9.393056,,EU,DK,DK-82,Silkeborg,no,EKCR,,,,,"Ekcr, Christianshede, Silkeborg flyveplads, Silkeborg flyveklub"
+44009,EKDB,heliport,Dan B Helideck,55.469039917,5.1330561638,,EU,DK,DK-U-A,,no,EKDB,,,,,
+44010,EKDE,heliport,Dan E Helideck,55.4806404114,5.1161670685,,EU,DK,DK-U-A,,no,EKDE,,,,,
+44011,EKDF,heliport,Dan F Helideck,55.478099823,5.1055278778,,EU,DK,DK-U-A,,no,EKDF,,,,,
+2543,EKEB,medium_airport,Esbjerg Airport,55.525902,8.5534,97,EU,DK,DK-83,Esbjerg,yes,EKEB,EBJ,,http://www.esbjerg-lufthavn.dk/en/,https://en.wikipedia.org/wiki/Esbjerg_Airport,"offshore, North Sea"
+29235,EKEL,small_airport,Endelave Flyveplads,55.7565,10.2485,15,EU,DK,DK-82,Endelave,no,EKEL,,,http://www.toftair.dk/,,
+44039,EKFA,heliport,Frooba Heliport,61.5437011719,-6.7744197845,77,EU,FO,FO-U-A,Frooba,no,EKFA,,,,,
+316647,EKFR,small_airport,Freerslev,55.898611,12.245,,EU,DK,DK-84,,no,EKFR,,,,,
+317884,EKFS,small_airport,Vøjstrup Glider Field,55.2477778,10.2041667,,EU,DK,DK-82,Vøjstrup,no,EKFS,,,,,"Broby, Vøjstrup"
+29884,EKFU,small_airport,Fur Airport,56.8244018555,8.9861097336,30,EU,DK,DK-82,Fur,no,EKFU,,,,,"Salling peninsula, Skive"
+44012,EKGC,heliport,Gorm C Helideck,55.5798492432,4.7588891983,,EU,DK,DK-U-A,,no,EKGC,,,,,
+2544,EKGH,small_airport,Grønholt Hillerød Airport,55.9413986206,12.3822002411,97,EU,DK,DK-84,Grønholt,no,EKGH,,,,,"Gronholt, Groenholt, Hillerod, Hilleroed"
+320131,EKGL,small_airport,Gørløse Glider Field,55.8855556,12.2280556,,EU,DK,DK-84,Gørløse,no,EKGL,,,http://www.glider.dk/node/357,,
+318289,EKGO,small_airport,Gørlev Flyveplads,55.5527778,11.1952778,,EU,DK,DK-85,Gørlev,no,EKGO,,,,,Gorlev
+29916,EKGR,small_airport,Grenaa Airport,56.4425010681,10.9306001663,20,EU,DK,DK-82,Grenaa,no,EKGR,,,,,Grenå
+44013,EKHA,heliport,Halfdan A Helideck,55.5308570862,5.0041670799,,EU,DK,DK-U-A,,no,EKHA,,,,,
+44014,EKHB,heliport,Halfdan B Helideck,55.5386123657,5.0333328247,,EU,DK,DK-U-A,,no,EKHB,,,,,
+44015,EKHD,heliport,Harald Helideck,56.3441200256,4.2719168663,,EU,DK,DK-U-A,,no,EKHD,,,,,
+318327,EKHE,small_airport,Annisse flyveplads,55.9847222,12.2144444,,EU,DK,DK-85,Annisse,no,EKHE,,,,,
+29236,EKHG,small_airport,Herning Airport,56.1847000122,9.0444498062,167,EU,DK,DK-82,Herning,no,EKHG,,,,,
+29237,EKHK,small_airport,Holbaek (Ny Hagested) Airport,55.73279953,11.6028003693,2,EU,DK,DK-85,Holbaek,no,EKHK,,,,,
+318902,EKHL,heliport,Holsted Helipad,55.4966667,8.9108333,,EU,DK,DK-83,Holsted,no,EKHL,,,,,Ben Air
+318291,EKHM,small_airport,Hammer Glider Field,55.908195,9.446358,290,EU,DK,DK-82,,no,EKHM,,,http://www.vsk.dk/,,Vejle Svæveflyveklub
+44017,EKHN,heliport,Horns Rev B Helideck,55.6001663208,7.6238059998,,EU,DK,DK-U-A,,no,EKHN,,,,,
+31002,EKHO,small_airport,Lindtorp Airport,56.3967018127,8.4419403076,49,EU,DK,DK-82,Holstebro,no,EKHO,,,,,
+44016,EKHR,heliport,Horns Rev A Helideck,55.5089492798,7.8749170303,,EU,DK,DK-U-A,,no,EKHR,,,,,
+29238,EKHS,closed,Hadsund Airfield,56.755924,10.228829,8,EU,DK,DK-81,Hadsund,no,EKHS,,,,,
+2545,EKHV,small_airport,Haderslev Airport,55.3022003174,9.5225000381,81,EU,DK,DK-83,Haderslev,no,EKHV,,,,,
+2546,EKKA,medium_airport,Karup Airport,56.2975006104,9.1246299744,170,EU,DK,DK-82,Karup,yes,EKKA,KRP,,,https://en.wikipedia.org/wiki/Karup_Airport,
+29239,EKKL,small_airport,Kalundborg Airport,55.7002983093,11.25,1,EU,DK,DK-85,Kalundborg,no,EKKL,,,,,
+30040,EKKO,small_airport,Korsør Airport,55.3368988037,11.2417001724,39,EU,DK,DK-85,Korsør,no,EKKO,,,,,
+318288,EKKS,small_airport,Kongsted Svæveflyveplads Glider,55.2522222,12.0627778,,EU,DK,DK-85,Faxe,no,EKKS,,,,,Kongsted
+44040,EKKV,heliport,Klaksvik Heliport,62.2178497314,-6.5764546394,263,EU,FO,FO-U-A,Klaksvik,no,EKKV,,,,http://no.wikipedia.org/wiki/Klaksv%C3%ADk_Heliport,
+2547,EKLS,small_airport,Læsø Airport,57.2771987915,11.0001001358,25,EU,DK,DK-81,Læsø,no,EKLS,BYR,,,,"Laeso, Laesoe"
+29240,EKLV,small_airport,Lemvig Airport,56.5029983521,8.3113298416,97,EU,DK,DK-82,Lemvig,no,EKLV,,,,,
+2548,EKMB,medium_airport,Lolland Falster Maribo Airport,54.699299,11.4401,16,EU,DK,DK-85,Lolland Falster / Maribo,no,EKMB,MRW,,,https://en.wikipedia.org/wiki/Lolland_Falster_Airport,
+30041,EKMN,small_airport,Kostervig Mon Airport,54.9646987915,12.1943998337,3,EU,DK,DK-85,Koster,no,EKMN,,,http://www.ekmn.dk/,,
+44041,EKMS,heliport,Mykines Heliport,62.1021003723,-7.6459197998,110,EU,FO,FO-U-A,Mykines,no,EKMS,,,,,
+44018,EKNI,heliport,Nini Helideck,56.6408042908,5.3211112022,,EU,DK,DK-U-A,,no,EKNI,,,,,
+29241,EKNM,small_airport,"Morsø Airport, Tødsø",56.8244018555,8.7866697311,53,EU,DK,DK-81,Morsø,no,EKNM,,,,,"Mors, Morso Airport Todso, Morsoe Airport Toedsoe"
+30179,EKNS,closed,Nakskov Airfield,54.8172,11.1308,3,EU,DK,DK-85,Nakskov,no,EKNS,,,,,
+2549,EKOD,medium_airport,Odense Airport,55.4766998291,10.3309001923,56,EU,DK,DK-83,Odense,yes,EKOD,ODE,,,https://en.wikipedia.org/wiki/Odense_Airport,
+2550,EKPB,small_airport,Kruså-Padborg Airport,54.870300293,9.279009819,88,EU,DK,DK-83,Kruså / Padborg,no,EKPB,,,,,
+30324,EKRA,small_airport,Rarup Airport,55.7785987854,9.9388904572,131,EU,DK,DK-82,Rarup,no,EKRA,,,,,
+29242,EKRD,small_airport,Randers Airport,56.5065994263,10.0363998413,139,EU,DK,DK-82,Randers,no,EKRD,,,,,
+44019,EKRF,heliport,Rolf Helideck,55.6061553955,4.4913330078,,EU,DK,DK-U-A,,no,EKRF,,,,,
+2551,EKRK,medium_airport,Copenhagen Roskilde Airport,55.5856018066,12.1314001083,146,EU,DK,DK-85,Copenhagen,no,EKRK,RKE,,,https://en.wikipedia.org/wiki/Roskilde_Airport,København
+2552,EKRN,medium_airport,Bornholm Airport,55.0633010864,14.7595996857,52,EU,DK,DK-84,Rønne,yes,EKRN,RNN,,http://www.bornholms-lufthavn.dk/en/,https://en.wikipedia.org/wiki/Bornholm_Airport,Roenne
+29243,EKRR,closed,Ro Airport,55.2103004456,14.8786001205,325,EU,DK,DK-84,Ro,no,EKRR,,,,,
+29244,EKRS,small_airport,Ringsted Airport,55.4258003235,11.8066997528,113,EU,DK,DK-85,Ringsted,no,EKRS,,,,,
+29245,EKSA,small_airport,Sæby (Ottestrup) Airport,57.346698761,10.406999588,110,EU,DK,DK-81,Sæby,no,EKSA,,,,,Saeby
+2553,EKSB,medium_airport,Sønderborg Airport,54.9644012451,9.7917299271,24,EU,DK,DK-83,Sønderborg,yes,EKSB,SGD,,,https://en.wikipedia.org/wiki/S%C3%B8nderborg_Airport,"Sonderborg, Soenderborg"
+44021,EKSC,heliport,Skjold Helideck,55.5315933228,4.9066672325,,EU,DK,DK-U-A,,no,EKSC,,,,,
+29246,EKSD,small_airport,Spjald Airport,56.1026992798,8.5142297745,249,EU,DK,DK-82,Spjald,no,EKSD,,,,,
+316929,EKSG,heliport,Schelenburg God Heliport,55.543889,10.635833,,EU,DK,DK-85,,no,EKSG,,,,,
+44020,EKSI,heliport,Siri Helideck,56.4827156067,4.911110878,,EU,DK,DK-U-A,,no,EKSI,,,,,
+315603,EKSL,small_airport,Slaglille Svæveflyvecenter,55.452222,11.644722,,EU,DK,DK-84,,no,EKSL,,,,,
+2554,EKSN,medium_airport,Sindal Airport,57.503502,10.2294,92,EU,DK,DK-81,Sindal,yes,EKSN,CNL,,http://www.eksn.dk/,https://en.wikipedia.org/wiki/Sindal_Airport,
+44044,EKSO,heliport,Svínoy Heliport,62.2766990662,-6.3414998055,30,EU,FO,FO-U-A,Svínoy,no,EKSO,,,,,
+2555,EKSP,medium_airport,Skrydstrup Air Base,55.221048,9.26702,141,EU,DK,DK-83,Vojens,no,EKSP,SKS,,,https://en.wikipedia.org/wiki/Fighter_Wing_Skrydstrup,
+44043,EKSR,heliport,Stóra Dímun Heliport,61.6852989197,-6.7585000992,305,EU,FO,FO-U-A,Stóra Dímun,no,EKSR,,,,,
+29247,EKSS,small_airport,Samsø Airport,55.8894996643,10.613699913,1,EU,DK,DK-82,Samsø,no,EKSS,,,,,"Samso, Samsoe"
+29248,EKST,small_airport,Sydfyn (Tasinge) Airport,55.016602,10.5633,7,EU,DK,DK-83,Tasinge,no,EKST,,,,,
+2556,EKSV,medium_airport,Skive Airport,56.550201416,9.1729803085,74,EU,DK,DK-82,Skive,no,EKSV,SQW,,,,
+44042,EKSY,heliport,Skúvoy Heliport,61.7695999146,-6.8034100533,70,EU,FO,FO-U-A,Skúvoy,no,EKSY,,,,,
+44045,EKTB,heliport,Tórshavn/Bodanes Heliport,62.0217018127,-6.757420063,68,EU,FO,FO-U-A,Tórshavn/Bodanes,no,EKTB,,,,,
+29249,EKTD,small_airport,Tønder Airport,54.9296989441,8.8405704498,1,EU,DK,DK-83,Tønder,no,EKTD,,,,,"Tonder, Toender"
+44023,EKTE,heliport,Tyra E Helideck,55.7215232849,4.8020558357,,EU,DK,DK-U-A,,no,EKTE,,,,,
+2557,EKTS,medium_airport,Thisted Airport,57.0688018799,8.7052202225,23,EU,DK,DK-81,Thisted,no,EKTS,TED,,,https://en.wikipedia.org/wiki/Thisted_Airport,
+44024,EKTW,heliport,Tyra W Helideck,55.7165298462,4.7503061295,,EU,DK,DK-U-A,,no,EKTW,,,,,
+29250,EKVA,closed,Vandel Air Base,55.701,9.21358,250,EU,DK,DK-83,Vandel,no,EKVA,,,,https://da.wikipedia.org/wiki/Flyvestation_Vandel,
+29251,EKVB,small_airport,Viborg Airport,56.4099998474,9.4090995789,75,EU,DK,DK-82,Viborg,no,EKVB,,,,,
+2558,EKVD,medium_airport,Kolding Vamdrup Airfield,55.436298,9.33092,143,EU,DK,DK-83,Kolding / Vamdrup,no,EKVD,,,,,
+2559,EKVG,medium_airport,Vagar Airport,62.0635986328,-7.2772197723,280,EU,FO,FO-U-A,Vagar,yes,EKVG,FAE,,http://www.floghavn.fo/,https://en.wikipedia.org/wiki/V%C3%A1gar_Airport,Faroes
+2560,EKVH,small_airport,Vesthimmerlands Flyveplads,56.846901,9.45861,119,EU,DK,DK-81,Aars,no,EKVH,,,,https://en.wikipedia.org/wiki/Aars_Airport,"Vesthimmerland, Hornum"
+2561,EKVJ,medium_airport,Stauning Airport,55.9901008606,8.3539104462,17,EU,DK,DK-82,Skjern / Ringkøbing,no,EKVJ,STA,,,,
+29252,EKVL,closed,Vaerlose Air Base,55.7695007324,12.3239002228,42,EU,DK,DK-84,Kirke Vaerlose,no,EKVL,,,,,
+2562,EKYT,large_airport,Aalborg Airport,57.0927589138,9.8492431641,10,EU,DK,DK-81,Aalborg,yes,EKYT,AAL,,http://www.aal.dk,https://en.wikipedia.org/wiki/Aalborg_Airport,
+298431,EK_4,small_airport,Vejrø,55.035,11.375,,EU,DK,DK-85,,no,EK_4,-0,-0,,,
+2563,ELLX,large_airport,Luxembourg-Findel International Airport,49.6233333,6.2044444,1234,EU,LU,LU-L,Luxembourg,yes,ELLX,LUX,,http://www.lux-airport.lu/en/,https://en.wikipedia.org/wiki/Luxembourg-Findel_International_Airport,
+30188,ELNT,small_airport,Noertrange Airfield,49.981098,5.91778,1522,EU,LU,LU-D,Winseler,no,ELNT,,,http://www.geocities.com/CapeCanaveral/Lab/3407/noertran.html,,
+31003,ELUS,small_airport,Useldange Glider,49.7686004639,5.9655599594,928,EU,LU,LU-D,Useldange,no,ELUS,,,http://www.clvv.lu/index.php?locale=en&l1=elus1&menu=li6,,
+333066,EMR,heliport,El Mirador Heliport,17.752077,-89.924916,,NA,GT,GT-PE,El Mirador,no,,EMR,,,,
+29646,ENAE,small_airport,Æra Airfield,61.257401,11.6689,1621,EU,NO,NO-04,Åmot,no,ENAE,,,,https://no.wikipedia.org/wiki/%C3%98stre_%C3%86ra_flyplass,
+319096,ENAH,heliport,"Ål Heliport, Medical Center",60.629958,8.567017,,EU,NO,NO-06,Ål,no,ENAH,,,,"https://en.wikipedia.org/wiki/%C3%85l_Heliport,_Medical_Center",
+2564,ENAL,medium_airport,Ålesund Airport,62.5625,6.119699955,69,EU,NO,NO-15,Ålesund,yes,ENAL,AES,,http://www.avinor.no/lufthavn/alesund,https://en.wikipedia.org/wiki/%C3%85lesund_Airport%2C_Vigra,Vigra
+2565,ENAN,medium_airport,Andøya Airport,69.2925033569,16.1441993713,43,EU,NO,NO-18,Andenes,yes,ENAN,ANX,,https://avinor.no/en/airport/andoya-airport/,https://en.wikipedia.org/wiki/And%C3%B8ya_Airport%2C_Andenes,
+319092,ENAR,heliport,"Arendal Heliport, Hospital",58.467493,8.754001,,EU,NO,NO-09,Arendal,no,ENAR,,,,"https://en.wikipedia.org/wiki/Arendal_Heliport,_Hospital",
+31004,ENAS,small_airport,Ny-Ålesund Airport (Hamnerabben),78.9274978638,11.8743,50,EU,NO,NO-21,Ny-Ålesund,no,ENAS,,,,"https://en.wikipedia.org/wiki/Ny-%C3%85lesund_Airport,_Hamnerabben",Brøggerhalvøya Airport
+2566,ENAT,medium_airport,Alta Airport,69.9760971069,23.3717002869,9,EU,NO,NO-20,Alta,yes,ENAT,ALF,,https://avinor.no/en/airport/alta-airport/,https://en.wikipedia.org/wiki/Alta_Airport,
+319091,ENAX,heliport,"Ålesund Heliport, Hospital",62.462942,6.312435,,EU,NO,NO-15,Ålesund,no,ENAX,,,,"https://en.wikipedia.org/wiki/%C3%85lesund_Heliport,_Hospital",
+319093,ENBA,heliport,"Barentsburg Heliport, Heerodden",78.101318,14.195676,92,EU,NO,NO-21,Barentsburg,no,ENBA,,,,"https://en.wikipedia.org/wiki/Barentsburg_Heliport,_Heerodden",
+29253,ENBE,heliport,Balder A Platform,59.1906013489,2.3580598831,,EU,NO,NO-U-A,,no,ENBE,,,,,
+298358,ENBG,heliport,Grønneviksøren (Haukeland Sykehus) Heliport,60.37988,5.346029,10,EU,NO,NO-12,Bergen,no,ENBG,,,,"https://en.wikipedia.org/wiki/Bergen_Heliport,_Gr%C3%B8nneviks%C3%B8ren",
+318215,ENBJ,heliport,Bjørnøya Heliport,74.5038889,19,,EU,NO,NO-21,Herwighamna,no,ENBJ,,,,,Bjørnøya
+29254,ENBL,small_airport,Førde Airport,61.3911018372,5.756939888,1046,EU,NO,NO-14,Førde,yes,ENBL,FDE,,https://avinor.no/en/airport/forde-airport/,https://en.wikipedia.org/wiki/F%C3%B8rde_Airport%2C_Bringeland,bringeland
+2567,ENBM,small_airport,Bømoen Airport,60.6389007568,6.5015001297,300,EU,NO,NO-12,Tjukkebygdi,no,ENBM,,,,,
+2568,ENBN,medium_airport,Brønnøysund Airport,65.4610977173,12.217499733,25,EU,NO,NO-18,Brønnøy,yes,ENBN,BNN,,https://avinor.no/en/airport/bronnoysund-airport/,https://en.wikipedia.org/wiki/Br%C3%B8nn%C3%B8ysund_Airport%2C_Br%C3%B8nn%C3%B8y,Bronnoy
+2569,ENBO,large_airport,Bodø Airport,67.269203186,14.3653001785,42,EU,NO,NO-18,Bodø,yes,ENBO,BOO,,http://www.avinor.no/en/airport/bodo/frontpage,https://en.wikipedia.org/wiki/Bod%C3%B8_Airport,"Bodø Air Force Base, Bodø Main Air Station"
+2570,ENBR,large_airport,Bergen Airport Flesland,60.29339981,5.218140125,170,EU,NO,NO-12,Bergen,yes,ENBR,BGO,,http://www.avinor.no/en/airport/bergen,https://en.wikipedia.org/wiki/Bergen_Airport%2C_Flesland,
+2571,ENBS,medium_airport,Båtsfjord Airport,70.6005020142,29.691400528,490,EU,NO,NO-20,Båtsfjord,yes,ENBS,BJF,,https://avinor.no/en/airport/batsfjord-airport/,https://en.wikipedia.org/wiki/B%C3%A5tsfjord_Airport,
+29255,ENBV,medium_airport,Berlevåg Airport,70.871399,29.034201,42,EU,NO,NO-20,Berlevåg,yes,ENBV,BVG,,https://avinor.no/en/airport/berlevag-airport/,https://en.wikipedia.org/wiki/Berlev%C3%A5g_Airport,
+2572,ENCN,medium_airport,Kristiansand Airport,58.204201,8.08537,57,EU,NO,NO-10,Kjevik,yes,ENCN,KRS,,http://www.avinor.no/en/airport/kristiansand,https://en.wikipedia.org/wiki/Kristiansand_Airport%2C_Kjevik,
+319089,ENDB,heliport,"Dombås Heliport, Brunshaugen",62.068943,9.121084,,EU,NO,NO-05,Dombås,no,ENDB,,,,"https://en.wikipedia.org/wiki/Domb%C3%A5s_Heliport,_Brunshaugen",
+319095,ENDH,heliport,"Drammen Heliport, Hospital",59.747818,10.197439,,EU,NO,NO-06,Drammen,no,ENDH,,,,,
+2573,ENDI,small_airport,Geilo Airport Dagali,60.417301178,8.5183496475,2618,EU,NO,NO-06,Dagali,no,ENDI,DLD,,http://www.geilolufthavn.no/,https://en.wikipedia.org/wiki/Geilo_Airport%2C_Dagali,
+29827,ENDO,small_airport,Dokka Thomlevold Airfield,60.833302,9.91667,512,EU,NO,NO-05,Dokka,no,ENDO,,,,"https://no.wikipedia.org/wiki/Dokka_flyplass,_Tomlevold",
+29256,ENDP,heliport,Draupner Platform,58.1880989075,2.4711101055,,EU,NO,NO-U-A,,no,ENDP,,,,,
+2574,ENDU,medium_airport,Bardufoss Airport,69.0558013916,18.5403995514,252,EU,NO,NO-19,Målselv,yes,ENDU,BDU,,https://avinor.no/en/airport/bardufoss-airport/,https://en.wikipedia.org/wiki/Bardufoss_Airport,
+29257,ENEG,small_airport,Eggemoen Airport,60.217300415,10.3239002228,656,EU,NO,NO-06,Hønefoss,no,ENEG,,,,,
+319097,ENEL,heliport,"Elverum Heliport, Innlandet Hospital",60.876961,11.569628,,EU,NO,NO-04,Elverum,no,ENEL,,,,,
+324008,ENEN,medium_airport,Engeløy Airport,67.967222,14.9925,10,EU,NO,NO-18,Engeløy,no,ENEN,,,http://www.engeloyflyplass.no,"https://en.wikipedia.org/wiki/Engel%C3%B8y_Airport,_Gr%C3%A5dussan",
+2575,ENEV,medium_airport,"Harstad/Narvik Airport, Evenes",68.4913024902,16.6781005859,84,EU,NO,NO-18,Evenes,yes,ENEV,EVE,,https://avinor.no/en/airport/harstadnarvik-airport/,https://en.wikipedia.org/wiki/Harstad/Narvik_Airport%2C_Evenes,"Harstad/Narvik lufthavn, Evenes"
+29258,ENFA,small_airport,Flatval Airport,63.7005996704,8.7605695724,152,EU,NO,NO-16,Frøya,no,ENFA,,,,,
+28117,ENFB,closed,"Oslo, Fornebu Airport",59.8958015442,10.6171998978,,EU,NO,NO-03,Oslo,no,ENFB,FBU,,,https://en.wikipedia.org/wiki/Oslo_Airport%2C_Fornebu,
+329176,ENFD,heliport,Førde Central Hospital Heliport,61.456302,5.890432,19,EU,NO,NO-14,Førde,no,ENFD,,,,"https://en.wikipedia.org/wiki/F%C3%B8rde_Heliport,_Central_Hospital",
+2576,ENFG,medium_airport,Leirin Airport,61.0155982971,9.2880601883,2697,EU,NO,NO-05,,yes,ENFG,VDB,,https://avinor.no/en/airport/fagernes-airport/,https://en.wikipedia.org/wiki/Fagernes_Airport%2C_Leirin,
+319098,ENFJ,heliport,"Fedje Heliport, Høgden",60.765738,4.733014,,EU,NO,NO-12,Fedje,no,ENFJ,,,,"https://en.wikipedia.org/wiki/Fedje_Heliport,_H%C3%B8gden",
+2577,ENFL,medium_airport,Florø Airport,61.5835990906,5.024720192,37,EU,NO,NO-14,Florø,yes,ENFL,FRO,,https://avinor.no/en/airport/floro-airport/,https://en.wikipedia.org/wiki/Flor%C3%B8_Airport,Floro
+29259,ENFR,closed,Frigg QP Platform,59.8782997131,2.0650000572,,EU,NO,NO-12,,no,ENFR,,,,,
+28474,ENFY,small_airport,Fyresdal Airfield,59.2000007629,8.0866699219,986,EU,NO,NO-08,Fyresdal,no,ENFY,,,http://www.airparc.com/,https://en.wikipedia.org/wiki/Vest-Telemark_airport%2C_Fyresdal,Airparc Fyresdal
+29927,ENGK,small_airport,Gullknapp Flpl Airport,58.516701,8.7,390,EU,NO,NO-09,,no,ENGK,,,http://www.gullknapp.no/web.aspx?page=112377,,
+2578,ENGM,large_airport,Oslo Gardermoen Airport,60.193901062,11.100399971,681,EU,NO,NO-02,Oslo,yes,ENGM,OSL,,https://avinor.no/en/airport/oslo-airport,"https://en.wikipedia.org/wiki/Oslo_Airport,_Gardermoen",
+29872,ENGN,small_airport,Folldal Grimsmoe Airport,62.1175003052,10.1107997894,2260,EU,NO,NO-04,Folldal,no,ENGN,,,,,
+44873,ENGS,small_airport,Snåsa Airfield Grønøra,64.1835861,12.17147827,89,EU,NO,NO-17,Snåsa,no,ENGS,,,,,
+29260,ENHA,small_airport,Stafsberg Airport,60.8180999756,11.0679998398,713,EU,NO,NO-04,Hamar,no,ENHA,HMR,,,https://en.wikipedia.org/wiki/Hamar_Airport%2C_Stafsberg,
+2579,ENHD,medium_airport,Haugesund Airport,59.3452987671,5.2083601952,86,EU,NO,NO-11,Karmøy,yes,ENHD,HAU,,https://avinor.no/en/airport/haugesund-airport/,https://en.wikipedia.org/wiki/Haugesund_Airport%2C_Karm%C3%B8y,Karmoy
+28115,ENHF,medium_airport,Hammerfest Airport,70.6797027588,23.6686000824,266,EU,NO,NO-20,Hammerfest,yes,ENHF,HFT,,https://avinor.no/en/airport/hammerfest-airport/,https://en.wikipedia.org/wiki/Hammerfest_Airport,
+2580,ENHK,small_airport,Hasvik Airport,70.4867019653,22.1396999359,21,EU,NO,NO-20,Hasvik,yes,ENHK,HAA,,https://avinor.no/en/airport/hasvik-airport/,https://en.wikipedia.org/wiki/Hasvik_Airport,
+29850,ENHN,small_airport,Elverum Starmoen Airport,60.880001,11.6731,659,EU,NO,NO-04,,no,ENSM,,,,"https://no.wikipedia.org/wiki/Starmoen_flyplass,_Elverum",
+319105,ENHO,heliport,Hopen Heliport,76.508067,25.014337,,EU,NO,NO-21,,no,ENHO,,,,,
+29955,ENHS,small_airport,Hokksund Airfield,59.7668991089,9.9113903046,30,EU,NO,NO-06,,no,ENHS,,,,,
+29939,ENHT,small_airport,Hattfjelldal Airport,65.5947036743,13.9891996384,689,EU,NO,NO-18,Hattfjelldal,no,ENHT,,,,,
+29261,ENHV,medium_airport,Valan Airport,71.0096969604,25.9836006165,44,EU,NO,NO-20,Honningsvåg,yes,ENHV,HVG,,https://avinor.no/en/airport/honningsvag-airport/,https://en.wikipedia.org/wiki/Valan_Airport,
+319103,ENHX,heliport,"Haugesund Heliport, Haugesund Hospital",59.408763,5.279548,,EU,NO,NO-11,Haugesund,no,ENHX,,,,,
+301115,ENJA,small_airport,Jan Mayensfield,70.9441166,-8.6520736,39,EU,NO,NO-22,,no,ENJA,,,http://www.jan-mayen.no/,https://en.wikipedia.org/wiki/Jan_Mayensfield,Jan Mayen
+29988,ENJB,small_airport,Jarlsberg Airfield,59.2999992371,10.3667001724,92,EU,NO,NO-07,Tønsberg,no,ENJB,,,,,
+29262,ENKA,small_airport,Kautokeino Air Base,69.0402984619,23.0340003967,1165,EU,NO,NO-20,,no,ENKA,QKX,,,,
+2581,ENKB,medium_airport,Kristiansund Airport (Kvernberget),63.1118011475,7.8245201111,204,EU,NO,NO-15,Kvernberget,yes,ENKB,KSU,,https://avinor.no/en/airport/kristiansund-airport/,https://en.wikipedia.org/wiki/Kristiansund_Airport%2C_Kvernberget,"Kristiansund lufthavn, Kvernberget"
+2582,ENKJ,small_airport,Kjeller Airport,59.9692993164,11.0361003876,354,EU,NO,NO-02,Kjeller,no,ENKJ,,,http://www.kjellerflyplass.no/,https://en.wikipedia.org/wiki/Kjeller_Airport,Lillestrøm
+30032,ENKL,small_airport,Gol Airport,60.791066,9.048672,2770,EU,NO,NO-06,Klanten flyplass,no,ENKL,GLL,,http://hallingdalflyklubb.no/wordpress/,"https://en.wikipedia.org/wiki/Gol_Airport,_Klanten",
+2583,ENKR,medium_airport,Kirkenes Airport (Høybuktmoen),69.7257995605,29.8913002014,283,EU,NO,NO-20,Kirkenes,yes,ENKR,KKN,,https://avinor.no/en/airport/kirkenes-airport/,https://en.wikipedia.org/wiki/Kirkenes_Airport%2C_H%C3%B8ybuktmoen,
+29263,ENLA,heliport,Ula Platform,59.1108016968,2.8458299637,,EU,NO,NO-U-A,,no,ENLA,,,,,
+319109,ENLH,heliport,"Lillehammer Heliport, Innlandet Hospital",61.11325,10.472165,,EU,NO,NO-05,Lillehammer,no,ENLH,,,,,
+2584,ENLI,small_airport,Lista Airport,58.0994987488,6.6260499954,29,EU,NO,NO-10,Farsund,no,ENLI,FAN,,http://www.listalufthavn.no/,"https://en.wikipedia.org/wiki/Farsund_Airport,_Lista","Farsund lufthavn, Lista"
+29264,ENLK,medium_airport,Leknes Airport,68.1524963379,13.6093997955,78,EU,NO,NO-18,Leknes,yes,ENLK,LKN,,https://avinor.no/en/airport/leknes-airport/,https://en.wikipedia.org/wiki/Leknes_Airport,Leknes lufthavn
+30092,ENLU,small_airport,Lunde Nome Airfield,59.2980995178,9.1327295303,190,EU,NO,NO-08,Lunde Nome,no,ENLU,,,,,
+319110,ENLX,heliport,"Lørenskog Heliport, Ahus",59.932138,10.986877,,EU,NO,NO-02,Lørenskog,no,ENLX,,,,"https://en.wikipedia.org/wiki/L%C3%B8renskog_Heliport,_Ahus",
+29265,ENMH,medium_airport,Mehamn Airport,71.0297012329,27.8267002106,39,EU,NO,NO-20,Mehamn,yes,ENMH,MEH,,https://avinor.no/en/airport/mehamn-airport/,https://en.wikipedia.org/wiki/Mehamn_Airport,
+2585,ENML,medium_airport,Molde Airport,62.7447013855,7.2624998093,10,EU,NO,NO-15,Årø,yes,ENML,MOL,,https://avinor.no/en/airport/molde-airport/,https://en.wikipedia.org/wiki/Molde_Airport%2C_%C3%85r%C3%B8,Aro
+2586,ENMS,medium_airport,Mosjøen Airport (Kjærstad),65.783996582,13.2149000168,237,EU,NO,NO-18,,yes,ENMS,MJF,,https://avinor.no/en/airport/mosjoen-airport/,https://en.wikipedia.org/wiki/Mosj%C3%B8en_Airport%2C_Kj%C3%A6rstad,
+2587,ENNA,medium_airport,Banak Airport,70.0688018799,24.9734992981,25,EU,NO,NO-20,Lakselv,yes,ENNA,LKL,,https://avinor.no/en/airport/lakselv-airport/,https://en.wikipedia.org/wiki/Lakselv_Airport%2C_Banak,North Cape Airport
+319142,ENNH,heliport,"Namsos Heliport, Hospital",64.469981,11.504007,,EU,NO,NO-17,Namsos,no,ENNH,,,,,
+29266,ENNK,medium_airport,Narvik Framnes Airport,68.4368972778,17.3866996765,95,EU,NO,NO-18,Narvik,yes,ENNK,NVK,,https://avinor.no/en/airport/narvik-airport/,https://en.wikipedia.org/wiki/Narvik_Airport%2C_Framnes,"Narvik lufthavn, Framnes"
+29267,ENNM,small_airport,Namsos Høknesøra Airport,64.4721984863,11.5785999298,7,EU,NO,NO-17,Namsos,yes,ENNM,OSY,,https://avinor.no/en/airport/namsos-airport/,https://en.wikipedia.org/wiki/Namsos_Airport%2C_H%C3%B8knes%C3%B8ra,"Namsos lufthavn, Høknesøra"
+2588,ENNO,medium_airport,Notodden Airport,59.565701,9.21222,63,EU,NO,NO-08,Notodden,yes,ENNO,NTB,,http://www.notodden-flyplass.no/,https://en.wikipedia.org/wiki/Notodden_Airport%2C_Tuven,
+29268,ENOA,heliport,Oseberg A Platform,60.4914016724,2.8255600929,,EU,NO,NO-U-A,,no,ENOA,,,,,
+29269,ENOC,heliport,Oseberg C Platform,60.60779953,2.7744400501,,EU,NO,NO-U-A,,no,ENOC,,,,,
+2589,ENOL,medium_airport,Ørland Airport,63.6988983154,9.6040000916,28,EU,NO,NO-16,Ørland,yes,ENOL,OLA,,,https://en.wikipedia.org/wiki/Brekstad_Airport%2C_%C3%98rland,Orland
+2590,ENOP,small_airport,Fagerhaug Airport,62.6498985291,9.846739769,1830,EU,NO,NO-16,,no,ENOP,,,,,
+28114,ENOV,medium_airport,"Ørsta-Volda Airport, Hovden",62.1800003052,6.0741000175,243,EU,NO,NO-15,Ørsta,yes,ENOV,HOV,,https://avinor.no/en/airport/orsta-volda-airport/,https://en.wikipedia.org/wiki/%C3%98rsta-Volda_Airport%2C_Hovden,
+319146,ENPY,heliport,Pyramiden Heliport,78.652322,16.337208,6,EU,NO,NO-21,Pyramiden,no,ENPY,,,,,
+29270,ENQA,heliport,Troll A Platform,60.6450004578,3.7247200012,,EU,NO,NO-U-A,,no,ENQA,,,,,
+29271,ENQB,heliport,Troll B Platform,60.7738990784,3.5013899803,,EU,NO,NO-U-A,,no,ENQB,,,,,
+29272,ENQC,heliport,Troll C Platform,60.885799408,3.6097199917,,EU,NO,NO-U-A,,no,ENQC,,,,,
